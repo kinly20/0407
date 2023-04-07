@@ -1,0 +1,29 @@
+D:\Temp\WcfDuplex - 副本\Subscriber\bin\Debug\Subscriber.exe.config
+D:\Temp\WcfDuplex - 副本\Subscriber\bin\Debug\Subscriber.exe
+D:\Temp\WcfDuplex - 副本\Subscriber\bin\Debug\Subscriber.pdb
+D:\Temp\WcfDuplex - 副本\Subscriber\obj\x86\Debug\Subscriber.FormSubscriber.resources
+D:\Temp\WcfDuplex - 副本\Subscriber\obj\x86\Debug\Subscriber.Properties.Resources.resources
+D:\Temp\WcfDuplex - 副本\Subscriber\obj\x86\Debug\Subscriber.csproj.GenerateResource.Cache
+D:\Temp\WcfDuplex - 副本\Subscriber\obj\x86\Debug\Subscriber.exe
+D:\Temp\WcfDuplex - 副本\Subscriber\obj\x86\Debug\Subscriber.pdb
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.exe
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.pdb
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\bin\Debug\Subscriber.exe
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\bin\Debug\Subscriber.pdb
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.FormSubscriber.resources
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.Properties.Resources.resources
+C:\Users\lijinemc\Desktop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.csproj.GenerateResource.Cache
+F:\01 das_code\深圳湾技生态园项目\外包管理\源中瑞\WcfDuplex\Subscriber\bin\Debug\Subscriber.exe.config
+F:\01 das_code\深圳湾技生态园项目\外包管理\源中瑞\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.exe
+F:\01 das_code\深圳湾技生态园项目\外包管理\源中瑞\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.pdb
+E:\develop\WcfDuplex\Subscriber\bin\Debug\Subscriber.exe.config
+E:\develop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.exe
+E:\develop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.pdb
+E:\develop\WcfDuplex\Subscriber\bin\Debug\Subscriber.exe
+E:\develop\WcfDuplex\Subscriber\bin\Debug\Subscriber.pdb
+E:\develop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.csprojResolveAssemblyReference.cache
+E:\develop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.FormSubscriber.resources
+E:\develop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.Properties.Resources.resources
+E:\develop\WcfDuplex\Subscriber\obj\x86\Debug\Subscriber.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+D:\心浩\2018\visionNew\PC程序\DxfParser\bin\Release\DxfParser.dll
+D:\心浩\2018\visionNew\PC程序\DxfParser\bin\Release\DxfParser.pdb
+D:\心浩\2018\visionNew\PC程序\DxfParser\obj\Release\DxfParser.DxfShow.resources
+D:\心浩\2018\visionNew\PC程序\DxfParser\obj\Release\DxfParser.Properties.Resources.resources
+D:\心浩\2018\visionNew\PC程序\DxfParser\obj\Release\DxfParser.csproj.GenerateResource.Cache
+D:\心浩\2018\visionNew\PC程序\DxfParser\obj\Release\DxfParser.dll
+D:\心浩\2018\visionNew\PC程序\DxfParser\obj\Release\DxfParser.pdb
+D:\心浩\2018\visionNew\PC程序\DxfParser\obj\Release\DxfParser.csprojResolveAssemblyReference.cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\bin\Release\DxfParser.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\bin\Release\DxfParser.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\bin\Release\DBHelper.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\obj\Release\DxfParser.DxfShow.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\obj\Release\DxfParser.Properties.Resources.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\obj\Release\DxfParser.csproj.GenerateResource.Cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\obj\Release\DxfParser.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\DxfParser\obj\Release\DxfParser.pdb

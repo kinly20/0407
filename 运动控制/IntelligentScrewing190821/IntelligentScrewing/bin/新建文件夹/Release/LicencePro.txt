@@ -1,0 +1,32 @@
+1.创建序列号：GetSN(   
+              ByVal FuncNum As String,    ' 三个字符的设备功能码；
+              ByVal PatchNum As UShort,   '1~99之间的设备批号；
+              ByVal VerNum As UShort,     '1~99之间的设备版本号；
+              ByVal LicRead() As Short   '从PLC读到的5个Licence数据；
+              )As String                   '返回序列号；
+
+
+2.检查序列号：LicencePass(
+              ByVal PatchNum As UShort,  '1~99之间的设备批号；
+              ByVal VerNum As UShort,    '1~99之间的设备版本号；
+              ByVal LicRead() As Short,  '从PLC读到的5个Licence数据；
+              ByRef NewLic() As Short    '返回的新的5个Licence数据，须要更新到PLC
+              )As Short                  '返回值：-9，参数错误； 
+                                                  -1, 版本或批号异常；  
+                                                  -2, 软件授权到期；
+                                                  >=0, 剩余可用的天数；
+
+
+3.根据授权码创建新的Licence数据 SetLicence(
+                        ByVal LicenceStr As String,  '授权码字符串；
+                        ByVal PatchNum As UShort,    '1~99之间的设备批号；
+                        ByVal VerNum As UShort,       '1~99之间的设备版本号 ；  
+                        ByVal LicRead() As Short,    '从PLC读到的5个Licence数据；   
+                        ByRef NewLic() As Short       '返回的新的5个Licence数据，须要更新到PLC；
+                        ) As Short         '返回值：-1，授权码长度异常；  
+                                                    -2， 和校验错误； 
+                                                    -3， 授权码错误1 ；
+                                                    -4，授权码错误2；  
+                                                    -5，授权码错误3；  
+                                                    -6，授权码错误4； 
+                                                    -7，授权码错误5；   

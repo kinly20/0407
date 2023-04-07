@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<!--记录书本的信息-->
+<area Name="IO监控区域1">
+<point addr="MW1" name="监控点1"  />
+<point addr="MW100" name="监控点2" />
+<point addr="MW1000" name="监控点3" />
+<point addr="MW1" name="监控点4" />
+<point addr="MW1" name="监控点5" />
+<point addr="MW1" name="监控点6" />
+<point addr="MW1" name="监控点7"  />
+<point addr="MW1" name="监控点8" />
+<point addr="MW1" name="监控点9" />
+<point addr="MW1" name="监控点10" />
+<point addr="MW1" name="监控点11" />
+<point addr="MW1" name="监控点12" />
+<point addr="MW1" name="监控点13" />
+<point addr="MW1" name="监控点14" />
+<point addr="MW1" name="监控点15" />
+<point addr="MW1" name="监控点16" />
+<point addr="MW1" name="监控点17" />
+<point addr="MW1" name="监控点18" />
+<point addr="MW1" name="监控点19" />
+<point addr="MW1" name="监控点20" />
+</area>
+<area Name="IO监控区域2">
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+<point addr="MW1" name="监控点1" />
+</area>
+</list>

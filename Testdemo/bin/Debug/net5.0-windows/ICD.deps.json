@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ICD/1.0.0": {
+        "dependencies": {
+          "HslCommunication": "9.2.3.0",
+          "MyControl": "1.0.0.0",
+          "MySql.Data": "6.9.5.0",
+          "SysSetting": "1.0.0.0",
+          "System.Data.SQLite": "1.0.90.0",
+          "System.Management": "4.0.0.0"
+        },
+        "runtime": {
+          "ICD.dll": {}
+        }
+      },
+      "HslCommunication/9.2.3.0": {
+        "runtime": {
+          "HslCommunication.dll": {
+            "assemblyVersion": "9.2.3.0",
+            "fileVersion": "9.2.3.0"
+          }
+        }
+      },
+      "MyControl/1.0.0.0": {
+        "runtime": {
+          "MyControl.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MySql.Data/6.9.5.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.9.5.0",
+            "fileVersion": "6.9.5.0"
+          }
+        }
+      },
+      "SysSetting/1.0.0.0": {
+        "runtime": {
+          "SysSetting.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Data.SQLite/1.0.90.0": {
+        "runtime": {
+          "System.Data.SQLite.dll": {
+            "assemblyVersion": "1.0.90.0",
+            "fileVersion": "1.0.90.0"
+          }
+        }
+      },
+      "System.Management/4.0.0.0": {
+        "runtime": {
+          "System.Management.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.4435.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HslCommunication/9.2.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyControl/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.9.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SysSetting/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.SQLite/1.0.90.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Management/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

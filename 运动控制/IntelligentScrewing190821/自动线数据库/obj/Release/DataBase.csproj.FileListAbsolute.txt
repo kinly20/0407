@@ -1,0 +1,6 @@
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\自动线数据库\bin\Release\DataBase.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\自动线数据库\bin\Release\DataBase.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\自动线数据库\obj\Release\DataBase.DataBase.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\自动线数据库\obj\Release\DataBase.csproj.GenerateResource.Cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\自动线数据库\obj\Release\DataBase.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\自动线数据库\obj\Release\DataBase.pdb

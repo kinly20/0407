@@ -1,0 +1,751 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe assembly's progress.
+The file is located at E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

@@ -1,0 +1,7 @@
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\ThreeAxisTable\bin\Release\ThreeAxisTable.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\ThreeAxisTable\bin\Release\ThreeAxisTable.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\ThreeAxisTable\obj\Release\ThreeAxisTable.Properties.Resources.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\ThreeAxisTable\obj\Release\ThreeAxisTable.Table.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\ThreeAxisTable\obj\Release\ThreeAxisTable.csproj.GenerateResource.Cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\ThreeAxisTable\obj\Release\ThreeAxisTable.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\ThreeAxisTable\obj\Release\ThreeAxisTable.pdb

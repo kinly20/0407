@@ -1,0 +1,18 @@
+D:\Temp\WcfDuplex - 副本\Publisher\bin\Debug\Publisher.exe.config
+D:\Temp\WcfDuplex - 副本\Publisher\bin\Debug\Publisher.exe
+D:\Temp\WcfDuplex - 副本\Publisher\bin\Debug\Publisher.pdb
+D:\Temp\WcfDuplex - 副本\Publisher\obj\x86\Debug\Publisher.csprojResolveAssemblyReference.cache
+D:\Temp\WcfDuplex - 副本\Publisher\obj\x86\Debug\Publisher.FormPublisher.resources
+D:\Temp\WcfDuplex - 副本\Publisher\obj\x86\Debug\Publisher.Properties.Resources.resources
+D:\Temp\WcfDuplex - 副本\Publisher\obj\x86\Debug\Publisher.csproj.GenerateResource.Cache
+D:\Temp\WcfDuplex - 副本\Publisher\obj\x86\Debug\Publisher.exe
+D:\Temp\WcfDuplex - 副本\Publisher\obj\x86\Debug\Publisher.pdb
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\obj\x86\Debug\Publisher.exe
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\obj\x86\Debug\Publisher.pdb
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\bin\Debug\Publisher.exe
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\bin\Debug\Publisher.pdb
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\obj\x86\Debug\Publisher.csprojResolveAssemblyReference.cache
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\obj\x86\Debug\Publisher.FormPublisher.resources
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\obj\x86\Debug\Publisher.Properties.Resources.resources
+C:\Users\lijinemc\Desktop\WcfDuplex\Publisher\obj\x86\Debug\Publisher.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransportSystemParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsTransportSynchronized>false</IsTransportSynchronized>
+  <IsCacheProductEnabled>false</IsCacheProductEnabled>
+  <IsTransportMotor2Exist>false</IsTransportMotor2Exist>
+  <IsBarCodeScanerEnabled>false</IsBarCodeScanerEnabled>
+  <FlipMotorVelocityX>10</FlipMotorVelocityX>
+  <FlipMotorVelocityY>10</FlipMotorVelocityY>
+  <FlipMotorVelocityR>10</FlipMotorVelocityR>
+  <FlipMotorZLowVelocity>30</FlipMotorZLowVelocity>
+  <FlipMotorZHighVelocity>30</FlipMotorZHighVelocity>
+  <FlipAxisZFlipHeight>320</FlipAxisZFlipHeight>
+  <GoHomeWhenFinishedFlip>false</GoHomeWhenFinishedFlip>
+  <MotorRHomingOffset>0</MotorRHomingOffset>
+  <ClampPositionDeviceType>true</ClampPositionDeviceType>
+  <LineMotorVelocity>20</LineMotorVelocity>
+  <LineAdjustHomeOffset>553</LineAdjustHomeOffset>
+</TransportSystemParameters>

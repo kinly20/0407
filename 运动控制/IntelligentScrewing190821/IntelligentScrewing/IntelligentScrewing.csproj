@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IntelligentScrewing</RootNamespace>
+    <AssemblyName>IntelligentScrewing</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon-1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AlarmControl_DKG, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AlarmControl_DKG.dll</HintPath>
+    </Reference>
+    <Reference Include="Daffodil, Version=1.0.208.175, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Daffodil.dll</HintPath>
+    </Reference>
+    <Reference Include="Daffodil.UI.VisionView, Version=1.0.226.262, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Daffodil.UI.VisionView.dll</HintPath>
+    </Reference>
+    <Reference Include="Daffodil.UI.VisionView.Implement.Interface, Version=1.0.208.161, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Daffodil.UI.VisionView.Implement.Interface.dll</HintPath>
+    </Reference>
+    <Reference Include="DBHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DBHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="DeviceInfor, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DeviceInfor.dll</HintPath>
+    </Reference>
+    <Reference Include="LicencePro, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\LicencePro.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=3.20.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="Mesh, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Mesh.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Expression.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="ModbusTCP, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ModbusTCP.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.MStudioCLM, Version=13.5.35.173, Culture=neutral, PublicKeyToken=18cbae0f9955702a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\NationalInstruments.MStudioCLM.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.NiLmClientDLL, Version=13.5.35.173, Culture=neutral, PublicKeyToken=18cbae0f9955702a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NationalInstruments.NiLmClientDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.Vision, Version=13.1.35.100, Culture=neutral, PublicKeyToken=18cbae0f9955702a, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NationalInstruments.Vision.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.Vision.Common, Version=13.1.35.100, Culture=neutral, PublicKeyToken=18cbae0f9955702a, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NationalInstruments.Vision.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ReactiveUI, Version=7.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ReactiveUI.dll</HintPath>
+    </Reference>
+    <Reference Include="ReactiveUI.Events, Version=7.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ReactiveUI.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="ReactiveUI.Winforms, Version=7.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ReactiveUI.Winforms.dll</HintPath>
+    </Reference>
+    <Reference Include="Splat, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Splat.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Reactive.Core, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Reactive.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Interfaces, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Reactive.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Linq, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Reactive.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.PlatformServices, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Reactive.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Windows.Threading, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Reactive.Windows.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TransportSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\TransportSystem.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AFurl.cs" />
+    <Compile Include="CoordinateChange.cs" />
+    <Compile Include="DGV_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DGV_Edit.Designer.cs">
+      <DependentUpon>DGV_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DxfEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DxfEdit.Designer.cs">
+      <DependentUpon>DxfEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DxfElement.cs" />
+    <Compile Include="KeyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeyForm.Designer.cs">
+      <DependentUpon>KeyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LicenceSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LicenceSet.Designer.cs">
+      <DependentUpon>LicenceSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monitor.Designer.cs">
+      <DependentUpon>Monitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parameter.cs" />
+    <Compile Include="Points.cs" />
+    <Compile Include="ProxyServices.cs" />
+    <Compile Include="tools\Alm.cs" />
+    <Compile Include="tools\CavDraw.cs" />
+    <Compile Include="tools\dataChange.cs" />
+    <Compile Include="tools\dataMonitor.cs" />
+    <Compile Include="tools\DxfReader.cs" />
+    <Compile Include="tools\FileSomething.cs" />
+    <Compile Include="tools\GetPCmessage.cs" />
+    <Compile Include="tools\Ini.cs" />
+    <Compile Include="tools\ReadFile.cs" />
+    <Compile Include="tools\waitSafy.cs" />
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DGV_Edit.resx">
+      <DependentUpon>DGV_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DxfEdit.resx">
+      <DependentUpon>DxfEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyForm.resx">
+      <DependentUpon>KeyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LicenceSet.resx">
+      <DependentUpon>LicenceSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.zh-CN.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.zh.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\项目\总控程序\DBHelper\XHWriteToSQL.csproj">
+      <Project>{c47eb5c6-90d1-41fd-9d5e-66251cad9705}</Project>
+      <Name>XHWriteToSQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DxfParser\DxfParser.csproj">
+      <Project>{9f44c539-dff1-421e-908b-e71d15865fea}</Project>
+      <Name>DxfParser</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThreeAxisTable\ThreeAxisTable.csproj">
+      <Project>{8f01d778-2566-4358-ba52-3c1837857818}</Project>
+      <Name>ThreeAxisTable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\自动线数据库\DataBase.csproj">
+      <Project>{c566bd4b-cb18-401c-baad-ba4136c05728}</Project>
+      <Name>DataBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16452.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113142379.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113142437.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113238761.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113239234.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113239842.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113239880.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113239902.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113240483.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2009724113240568.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20071220164043743.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20097241132398421.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20097241132398422.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20097241132399021.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20097241132399022.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actionIcons_005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actionIcons_006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actionIcons_009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actionIcons_013.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_to_folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_get.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Programming.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon-1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

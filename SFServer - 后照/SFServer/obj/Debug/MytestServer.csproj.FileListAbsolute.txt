@@ -1,0 +1,4 @@
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\Mytest1.Properties.Resources.resources
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\MytestServer.csproj.GenerateResource.Cache
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\Mytest1.exe

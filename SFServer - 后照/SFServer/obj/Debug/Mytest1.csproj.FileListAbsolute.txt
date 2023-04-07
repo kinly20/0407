@@ -1,0 +1,13 @@
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\Mytest1.Properties.Resources.resources
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\Mytest1.csproj.GenerateResource.Cache
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\Mytest1.exe.config
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\Mytest1.exe
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\Mytest1.pdb
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\Mytest1.exe
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\Mytest1.pdb
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\EDRS.Core.dll
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\System.Data.SQLite.dll
+C:\Users\huxn\Desktop\EDRS API\Mytest1\bin\Debug\EDRS.Core.pdb

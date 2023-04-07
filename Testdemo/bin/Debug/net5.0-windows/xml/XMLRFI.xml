@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<list>
+  <area Name="配方1">
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW100" name="监控点2" cmd="1" unit="ms" />
+    <point addr="MW1000" name="监控点3" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点4" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点5" cmd="2.5" unit="ms" />
+    <point addr="MW1" name="监控点6" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点7" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点8" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点9" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点10" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点11" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点12" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点13" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点14" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点15" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点16" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点17" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点18" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点19" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点20" cmd="1" unit="ms" />
+  </area>
+  <area Name="配方2">
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+    <point addr="MW1" name="监控点1" cmd="1" unit="ms" />
+  </area>
+</list>

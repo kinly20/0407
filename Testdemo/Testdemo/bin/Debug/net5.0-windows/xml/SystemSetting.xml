@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+<area Name="IP" Key="192.168.100.101"/>
+<area Name="状态显示刷新间隔" Key="50"/><!--单位毫秒-->
+</Setting>

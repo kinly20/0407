@@ -1,0 +1,81 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="18a9c38a29c90c5c285bec131ea696f5.gif" />
+    <None Remove="Images\chilun.gif" />
+    <None Remove="Images\chilun2.gif" />
+    <None Remove="Images\close.png" />
+    <None Remove="Images\gongzuozhan_bai.png" />
+    <None Remove="Images\gongzuozhan_cai.png" />
+    <None Remove="Images\gongzuozhan_hei.png" />
+    <None Remove="Images\mini.png" />
+    <None Remove="Images\tiaozheng.png" />
+    <None Remove="Images\user.jpg" />
+    <None Remove="院士工作站_白.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="LiveCharts.Geared" Version="1.2.9" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="SQLite" Version="3.13.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="7.0.0" />
+    <PackageReference Include="XamlAnimatedGif" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HslCommunication">
+      <HintPath>dll\HslCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="MyControl">
+      <HintPath>dll\MyControl.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>dll\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite">
+      <HintPath>dll\sqlite-netFx46-binary-bundle-Win32-2015-1.0.117.0\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management">
+      <HintPath>dll\System.Management.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization">
+      <HintPath>..\..\..\Doc\松下\System.Windows.Forms.DataVisualization\X64\4.0.30319.17929\System.Windows.Forms.DataVisualization.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="18a9c38a29c90c5c285bec131ea696f5.gif" />
+    <Resource Include="Images\chilun.gif" />
+    <Resource Include="Images\chilun2.gif" />
+    <Resource Include="Images\close.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\gongzuozhan_bai.png" />
+    <Resource Include="Images\gongzuozhan_cai.png" />
+    <Resource Include="Images\gongzuozhan_hei.png" />
+    <Resource Include="Images\mini.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\tiaozheng.png" />
+    <Resource Include="Images\user.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="院士工作站_白.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="dll\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,139 @@
+﻿<Page x:Class="Dashboard.SubPage9"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dashboard"
+       xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+       xmlns:lvcg="clr-namespace:LiveCharts.Geared;assembly=LiveCharts.Geared"
+       xmlns:fa="http://schemas.fontawesome.io/icons/"
+      xmlns:gif="https://github.com/XamlAnimatedGif/XamlAnimatedGif"
+      mc:Ignorable="d" 
+       d:DesignHeight="845" d:DesignWidth="1000"
+      Title="SubPage9">
+
+    <Grid Margin="-8 0 -8 0">
+
+
+        <ListBox Grid.Row="1" Name="lstFileManager" Height="220" Margin="0 -720 0 0"  Background ="#FDFDFD" ItemsSource="{Binding ShowsubModels,UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding SelectsubModel,UpdateSourceTrigger=PropertyChanged}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="#FDFDFD">
+                        <!--<Border  Tag="{Binding Ip}" x:Name="PIC7"   CornerRadius="30" Width="100" Height="100" HorizontalAlignment="Left"  Margin="50 20 50 20">
+                            <Border.Background>
+                                <ImageBrush  Stretch="Fill" ImageSource="/Images/tiaozheng.png"/>
+                            </Border.Background>
+
+                            <Button Command="{Binding ChangeWidthCommand}" Style="{StaticResource Normalbutton}"    >
+                                <StackPanel Orientation="Horizontal">
+                                    <fa:ImageAwesome Icon="BookmarkOutline" Style="{StaticResource buttonIcon}" />
+                                    <TextBlock Text="{Binding Name}" Style="{StaticResource buttonText}" />
+                                </StackPanel>
+                            </Button>
+
+                        </Border>-->
+                        <Grid Width="150" Height="180">
+                            <TextBlock Grid.Row="1" Margin="40,20,10,0" FontSize="18" Text="{Binding Name}" />
+                            <Image Width="150" Height="80" Source="/Images/tiaozheng.png"></Image>
+                            <!--Command="{Binding ChangeWidthCommand}"-->
+                            <Button Click="Button_Click" Tag="{Binding Name}"  Style="{StaticResource Normalbutton}" Margin="0 120 0 0"   >
+                                <StackPanel Orientation="Horizontal">
+                                    <fa:ImageAwesome Icon="BookmarkOutline" Style="{StaticResource buttonIcon}" />
+                                    <TextBlock Text="调 宽" Style="{StaticResource buttonText}" />
+                                </StackPanel>
+                            </Button>
+                        </Grid>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+       
+        <Border CornerRadius="15" Background="#FDFDFD" Padding="15" Margin="0 -400 0 0"  Height="70">
+            <Grid>
+                <TextBlock Text="调宽产品:" Style="{StaticResource buttonText}" Width="100" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="18" Margin="10 0 0 0" />
+                <ComboBox x:Name="cbproduct" Width="150" Margin="110 0 0 0" HorizontalAlignment="Left" FontSize="16"
+                          ItemsSource="{Binding Productnames,UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding SelectProduct,UpdateSourceTrigger=PropertyChanged}"></ComboBox>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 0 0 0">
+                    
+                    <Button Command="{Binding AddCommand}" Style="{StaticResource Normalbutton}"  Grid.Column="1"  >
+                        <StackPanel Orientation="Horizontal">
+                            <fa:ImageAwesome Icon="BookmarkOutline" Style="{StaticResource buttonIcon}" />
+                            <TextBlock Text="新增配方" Style="{StaticResource buttonText}" />
+                        </StackPanel>
+                    </Button>
+
+                    <Button  Command="{Binding DeleteCommand}" Style="{StaticResource Normalbutton}" Background="#202934" Foreground="#e9e9e9"  Grid.Column="2" >
+                        <StackPanel Orientation="Horizontal">
+                            <fa:ImageAwesome Icon="CommentOutline" Style="{StaticResource buttonIcon}" />
+                            <TextBlock Text="删除配方" Style="{StaticResource buttonText}" />
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+            </Grid>
+               
+            </Border>
+        
+        
+        <Border CornerRadius="15" Background="#FDFDFD" Padding="15" Margin="0 320 0 0" >
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 0 0 0" >
+                <ScrollViewer x:Name="scrList" Margin="0" VerticalScrollBarVisibility="Auto" Height="500">
+                    <DataGrid Name="dta1"  AutoGenerateColumns="False" CanUserAddRows="False" 
+                              CanUserDeleteRows="False" CanUserReorderColumns="False" CanUserResizeRows="False"
+                              CanUserSortColumns="True" ColumnHeaderHeight="30" FontSize="16"
+                              GridLinesVisibility="Horizontal" HeadersVisibility="Column"
+                              IsReadOnly="True" ItemsSource="{Binding ShowrecipeModels,UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding SelectrecipeModel,UpdateSourceTrigger=PropertyChanged}" RowHeight="28">
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="DataGridColumnHeader">
+                                <Setter Property="Background" Value="#B92120">
+                                    <!--<Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientStop Color="Red" Offset="0"></GradientStop>
+                                            <GradientStop Color="Red" Offset="0.5"></GradientStop>
+                                            <GradientStop Color="Red" Offset="1"></GradientStop>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>-->
+                                </Setter>
+                                <Setter Property="TextBlock.Foreground" Value="White">
+                                </Setter>
+                                <Setter Property="TextBlock.FontSize" Value="18">
+                                </Setter>
+                                <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                <Setter Property="HorizontalAlignment" Value="Stretch" />
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+                        <DataGrid.RowStyle>
+                            <Style TargetType="{x:Type DataGridRow}">
+                                <Style.Triggers>
+                                    <Trigger Property="AlternationIndex" Value="0">
+                                        <Setter Property="Background" Value="AliceBlue"></Setter>
+                                    </Trigger>
+                                    <Trigger Property="AlternationIndex" Value="1">
+                                        <Setter Property="Background" Value="White"></Setter>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </DataGrid.RowStyle>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Width="*" MinWidth="200" Binding="{Binding Id}" Header="配方编号" CellStyle="{StaticResource DataGridCell}"></DataGridTextColumn>
+                            <DataGridTextColumn Width="*" MinWidth="200" Binding="{Binding Machine}" Header="接驳台" CellStyle="{StaticResource DataGridCell}"></DataGridTextColumn>
+
+                            <DataGridTextColumn Width="*" MinWidth="200" Binding="{Binding Product}" Header="产品" CellStyle="{StaticResource DataGridCell}"></DataGridTextColumn>
+                            <DataGridTextColumn Width="*" MinWidth="200" Binding="{Binding Recipe}" Header="配方值" CellStyle="{StaticResource DataGridCell}"></DataGridTextColumn>
+                            
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <!--<DataGrid   ItemsSource="{Binding ShowsubModels,UpdateSourceTrigger=PropertyChanged}"  SelectedItem="{Binding SelectsubModel,UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Height="328" Margin="31,98,0,0" VerticalAlignment="Top" Width="309"/>-->
+                    <!--<TextBox Height="23" Text="{Binding SelectsubModel.User,UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap" Width="99"/>-->
+                </ScrollViewer>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Page>

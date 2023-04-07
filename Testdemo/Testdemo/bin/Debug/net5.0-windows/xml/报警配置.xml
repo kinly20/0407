@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<!--记录书本的信息-->
+<area Name="报警区域1">
+<point addr="MW201" name="监控报警内容1"  />
+<point addr="MW202" name="监控报警内容2" />
+<point addr="MW203" name="监控报警内容3" />
+</area>
+</list>

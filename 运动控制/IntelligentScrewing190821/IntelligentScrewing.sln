@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelligentScrewing", "IntelligentScrewing\IntelligentScrewing.csproj", "{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeAxisTable", "ThreeAxisTable\ThreeAxisTable.csproj", "{8F01D778-2566-4358-BA52-3C1837857818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTable", "TestTable\TestTable.csproj", "{12162700-AE1E-49B7-85D3-1F31038C6CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DxfParser", "DxfParser\DxfParser.csproj", "{9F44C539-DFF1-421E-908B-E71D15865FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "自动线数据库\DataBase.csproj", "{C566BD4B-CB18-401C-BAAD-BA4136C05728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHWriteToSQL", "..\..\..\项目\总控程序\DBHelper\XHWriteToSQL.csproj", "{C47EB5C6-90D1-41FD-9D5E-66251CAD9705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testSQL", "testSQL\testSQL.csproj", "{74031683-F0BD-4EC3-AD2F-ECDD5F965E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		WriteToSQL|Any CPU = WriteToSQL|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}.WriteToSQL|Any CPU.ActiveCfg = Release|Any CPU
+		{6B81487B-C4B8-44E7-A260-D1DB0951FFAF}.WriteToSQL|Any CPU.Build.0 = Release|Any CPU
+		{8F01D778-2566-4358-BA52-3C1837857818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F01D778-2566-4358-BA52-3C1837857818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F01D778-2566-4358-BA52-3C1837857818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F01D778-2566-4358-BA52-3C1837857818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F01D778-2566-4358-BA52-3C1837857818}.WriteToSQL|Any CPU.ActiveCfg = Release|Any CPU
+		{8F01D778-2566-4358-BA52-3C1837857818}.WriteToSQL|Any CPU.Build.0 = Release|Any CPU
+		{12162700-AE1E-49B7-85D3-1F31038C6CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12162700-AE1E-49B7-85D3-1F31038C6CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12162700-AE1E-49B7-85D3-1F31038C6CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12162700-AE1E-49B7-85D3-1F31038C6CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12162700-AE1E-49B7-85D3-1F31038C6CF5}.WriteToSQL|Any CPU.ActiveCfg = Release|Any CPU
+		{12162700-AE1E-49B7-85D3-1F31038C6CF5}.WriteToSQL|Any CPU.Build.0 = Release|Any CPU
+		{9F44C539-DFF1-421E-908B-E71D15865FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F44C539-DFF1-421E-908B-E71D15865FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F44C539-DFF1-421E-908B-E71D15865FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F44C539-DFF1-421E-908B-E71D15865FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F44C539-DFF1-421E-908B-E71D15865FEA}.WriteToSQL|Any CPU.ActiveCfg = Release|Any CPU
+		{9F44C539-DFF1-421E-908B-E71D15865FEA}.WriteToSQL|Any CPU.Build.0 = Release|Any CPU
+		{C566BD4B-CB18-401C-BAAD-BA4136C05728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C566BD4B-CB18-401C-BAAD-BA4136C05728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C566BD4B-CB18-401C-BAAD-BA4136C05728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C566BD4B-CB18-401C-BAAD-BA4136C05728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C566BD4B-CB18-401C-BAAD-BA4136C05728}.WriteToSQL|Any CPU.ActiveCfg = Release|Any CPU
+		{C566BD4B-CB18-401C-BAAD-BA4136C05728}.WriteToSQL|Any CPU.Build.0 = Release|Any CPU
+		{C47EB5C6-90D1-41FD-9D5E-66251CAD9705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47EB5C6-90D1-41FD-9D5E-66251CAD9705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47EB5C6-90D1-41FD-9D5E-66251CAD9705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47EB5C6-90D1-41FD-9D5E-66251CAD9705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47EB5C6-90D1-41FD-9D5E-66251CAD9705}.WriteToSQL|Any CPU.ActiveCfg = WriteToSQL|Any CPU
+		{C47EB5C6-90D1-41FD-9D5E-66251CAD9705}.WriteToSQL|Any CPU.Build.0 = WriteToSQL|Any CPU
+		{74031683-F0BD-4EC3-AD2F-ECDD5F965E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74031683-F0BD-4EC3-AD2F-ECDD5F965E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74031683-F0BD-4EC3-AD2F-ECDD5F965E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74031683-F0BD-4EC3-AD2F-ECDD5F965E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74031683-F0BD-4EC3-AD2F-ECDD5F965E9A}.WriteToSQL|Any CPU.ActiveCfg = Release|Any CPU
+		{74031683-F0BD-4EC3-AD2F-ECDD5F965E9A}.WriteToSQL|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

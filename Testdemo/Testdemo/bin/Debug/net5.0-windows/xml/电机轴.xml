@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<!--记录书本的信息-->
+<area Name="电机区域1">
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW100" name="监控点2" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1000" name="监控点3" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点4" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点5" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点6" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点7" standard="100" addrspeed="MW2" addrlocation="MW3"  />
+<point addr="MW1" name="监控点8" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点9" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点10" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点11" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点12" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点13" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点14" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点15" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点16" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点17" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点18" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点19" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点20" standard="100" addrspeed="MW2" addrlocation="MW3" />
+</area>
+<area Name="电机区域2">
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3"/>
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3" />
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3"/>
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3"/>
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3"/>
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3"/>
+<point addr="MW1" name="监控点1" standard="100" addrspeed="MW2" addrlocation="MW3"/>
+</area>
+</list>

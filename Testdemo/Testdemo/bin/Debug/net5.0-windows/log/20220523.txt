@@ -1,0 +1,9 @@
+2022/5/23 15:19:14 链接不通Link != 0
+2022/5/23 15:19:16 链接不通Link != 0
+2022/5/23 15:19:18 链接不通Link != 0
+2022/5/23 15:40:27 链接不通Link != 0
+2022/5/23 15:40:28 链接不通Link != 0
+2022/5/23 15:40:29 链接不通Link != 0
+2022/5/23 16:55:15 System.Net.WebException: The remote server returned an error: (404) .
+   at System.Net.HttpWebRequest.GetResponse()
+   at Testdemo.Class.HTTP.HttpPost(String Url, String postDataStr) in E:\Code\Testdemo\Testdemo\Class\HTTP.cs:line 27

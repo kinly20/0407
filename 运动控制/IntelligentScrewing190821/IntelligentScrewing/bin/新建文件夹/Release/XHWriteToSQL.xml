@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XHWriteToSQL</name>
+    </assembly>
+    <members>
+        <member name="T:XHwritetoSQL.DeviceType">
+            <summary>
+            设备类型枚举
+            </summary>
+        </member>
+        <member name="F:XHwritetoSQL.DeviceType.ANTPortConnectorToInstallThDevice">
+            <summary>
+            ANT端口连接器安装设备
+            </summary>
+        </member>
+        <member name="F:XHwritetoSQL.DeviceType.CoverPlateScrewMountingEquipment">
+            <summary>
+            盖板螺钉安装设备
+            </summary>
+        </member>
+        <member name="F:XHwritetoSQL.DeviceType.CrimpingEquipment">
+            <summary>
+            压接设备
+            </summary>
+        </member>
+        <member name="F:XHwritetoSQL.DeviceType.ResonantRodMountingEquipment">
+            <summary>
+            谐振杆安装设备
+            </summary>
+        </member>
+        <member name="F:XHwritetoSQL.DeviceType.VisualInspectionEquipment">
+            <summary>
+            可视化检测设备
+            </summary>
+        </member>
+        <member name="F:XHwritetoSQL.DeviceType.WeldingEquipment">
+            <summary>
+            焊接设备
+            </summary>
+        </member>
+        <member name="T:XHwritetoSQL.WriteToSQL">
+            <summary>
+            写数据库类
+            </summary>
+        </member>
+        <member name="F:XHwritetoSQL.WriteToSQL.sqlConnection">
+            <summary>
+            数据库连接
+            </summary>
+        </member>
+        <member name="M:XHwritetoSQL.WriteToSQL.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="connstr">数据库连接字符串，可选参数</param>
+        </member>
+        <member name="M:XHwritetoSQL.WriteToSQL.InsertData(System.Collections.Generic.List{System.String},XHwritetoSQL.DeviceType)">
+            <summary>
+            写入数据
+            </summary>
+            <param name="dataList">数据链表</param>
+            <param name="devicetype">设备类型</param>
+            <returns>无异常返回:null;有异常返回异常："写入数据过程中出现异常：" + 当前异常的消息</returns>
+        </member>
+        <member name="M:XHwritetoSQL.WriteToSQL.GetSN(System.String)">
+            <summary>
+            读取托盘上的产品条码
+            </summary>
+            <param name="TPSN">托盘条码</param>
+            <returns>当前与托盘绑定的产品条码；托盘上有产品返回产品条码,无产品返回null；读取数据库有异常返回："读取托盘上的产品条码过程中出现异常："+当前异常的消息</returns>
+        </member>
+        <member name="P:XHwritetoSQL.WriteToSQL.ConnectString">
+             <summary>
+            数据库连接字符串 
+             </summary>
+        </member>
+    </members>
+</doc>

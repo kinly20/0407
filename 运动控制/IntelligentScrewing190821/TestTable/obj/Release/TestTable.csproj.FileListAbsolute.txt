@@ -1,0 +1,13 @@
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\bin\Release\TestTable.exe.config
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\bin\Release\TestTable.exe
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\bin\Release\TestTable.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\bin\Release\DxfParser.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\bin\Release\ThreeAxisTable.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\bin\Release\DxfParser.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\bin\Release\ThreeAxisTable.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\obj\Release\TestTable.csprojResolveAssemblyReference.cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\obj\Release\TestTable.Form1.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\obj\Release\TestTable.Properties.Resources.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\obj\Release\TestTable.csproj.GenerateResource.Cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\obj\Release\TestTable.exe
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\TestTable\obj\Release\TestTable.pdb

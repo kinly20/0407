@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<!--记录书本的信息-->
+<area Name="设置区域1">
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW100" name="操作点2" cmdtype="short" cmd="2" />
+<point addr="MW1000" name="操作点3" cmdtype="short" cmd="3"  />
+<point addr="MW1" name="操作点4" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点5" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点6" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点7" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点8" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点9" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点10" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点11" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点12" cmdtype="short" cmd="1" />
+</area>
+<area Name="设置区域12">
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+<point addr="MW1" name="操作点1" cmdtype="short" cmd="1" />
+</area>
+</list>

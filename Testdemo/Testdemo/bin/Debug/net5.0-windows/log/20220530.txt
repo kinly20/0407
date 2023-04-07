@@ -1,0 +1,3 @@
+2022/5/30 15:37:54 System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Testdemo.Class.HTTP.HttpGet(String Url) in E:\Code\Testdemo\Testdemo\Class\HTTP.cs:line 54

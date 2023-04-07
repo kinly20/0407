@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<!--记录书本的信息-->
+<area Name="参数配置区域1">
+<point addr="MW0" name="监控点1" unit="ms" />
+<point addr="MW1" name="监控点2" unit="ms"/>
+<point addr="MW2" name="监控点3" unit="ms"/>
+<point addr="MW3" name="监控点4" unit="ms"/>
+<point addr="MW4" name="监控点5" unit="ms"/>
+<point addr="MW5" name="监控点6" unit="ms"/>
+<point addr="MW6" name="监控点7"  unit="ms"/>
+<point addr="MW7" name="监控点8" unit="ms"/>
+<point addr="MW8" name="监控点9" unit="ms"/>
+<point addr="MW9" name="监控点10" unit="ms"/>
+<point addr="MW10" name="监控点11" unit="ms"/>
+<point addr="MW11" name="监控点12" unit="ms"/>
+<point addr="MW12" name="监控点13" unit="ms"/>
+<point addr="MW13" name="监控点14" unit="ms"/>
+<point addr="MW14" name="监控点15" unit="ms"/>
+<point addr="MW15" name="监控点16" unit="ms"/>
+<point addr="MW16" name="监控点17" unit="ms" />
+<point addr="MW17" name="监控点18" unit="ms"/>
+<point addr="MW18" name="监控点19" unit="ms"/>
+<point addr="MW19" name="监控点20" unit="ms"/>
+</area>
+<area Name="参数配置区域2">
+<point addr="MW520" name="监控点519" unit="ms"/>
+<point addr="MW521" name="监控点520" unit="ms"/>
+<point addr="MW522" name="监控点521" unit="ms"/>
+<point addr="MW523" name="监控点522" unit="ms"/>
+<point addr="MW1000" name="监控点999" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+<point addr="MW1" name="监控点1" unit="ms"/>
+</area>
+</list>

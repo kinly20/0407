@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Testdemo/1.0.0": {
+        "dependencies": {
+          "HslCommunication": "9.2.3.0"
+        },
+        "runtime": {
+          "Testdemo.dll": {}
+        }
+      },
+      "HslCommunication/9.2.3.0": {
+        "runtime": {
+          "HslCommunication.dll": {
+            "assemblyVersion": "9.2.3.0",
+            "fileVersion": "9.2.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testdemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HslCommunication/9.2.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

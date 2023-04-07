@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="782e346e-b3a4-4f88-91a7-e3d798c7016f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://172.16.22.68:9998/WcfDuplexService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WcfDuplexService.xsd" MetadataType="Schema" ID="80719af7-1108-447a-bfec-9deafd1fa39b" SourceId="1" SourceUrl="http://localhost:9998/WcfDuplexService?xsd=xsd1" />
+    <MetadataFile FileName="FormPublisher1.wsdl" MetadataType="Wsdl" ID="a3ba0388-2339-4f3b-abe4-271d5f1adcc2" SourceId="1" SourceUrl="http://localhost:9998/WcfDuplexService?wsdl" />
+    <MetadataFile FileName="WcfDuplexService1.disco" MetadataType="Disco" ID="5a0663ca-8699-40df-aff6-f59cd4a24787" SourceId="1" SourceUrl="http://localhost:9998/WcfDuplexService?disco" />
+    <MetadataFile FileName="WcfDuplexService1.xsd" MetadataType="Schema" ID="86cc7ebd-0370-47b7-9c78-81eb2e61f976" SourceId="1" SourceUrl="http://localhost:9998/WcfDuplexService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

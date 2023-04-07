@@ -1,0 +1,11 @@
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\bin\Release\testSQL.exe.config
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\bin\Release\testSQL.exe
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\bin\Release\testSQL.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\bin\Release\XHWriteToSQL.dll
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\bin\Release\XHWriteToSQL.pdb
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\obj\Release\testSQL.csprojResolveAssemblyReference.cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\obj\Release\testSQL.Form2.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\obj\Release\testSQL.Properties.Resources.resources
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\obj\Release\testSQL.csproj.GenerateResource.Cache
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\obj\Release\testSQL.exe
+D:\心浩\2019\爱立信螺钉机\IntelligentScrewing190821\testSQL\obj\Release\testSQL.pdb

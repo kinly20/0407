@@ -1,0 +1,5 @@
+E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe.config
+E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.pdb
+E:\develop\WCFtestServer\WCFtestServer\obj\Debug\WCFtestServer.exe
+E:\develop\WCFtestServer\WCFtestServer\obj\Debug\WCFtestServer.pdb

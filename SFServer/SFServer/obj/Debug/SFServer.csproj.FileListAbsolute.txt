@@ -1,0 +1,298 @@
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\Mytest1.Properties.Resources.resources
+C:\Users\huxn\Desktop\EDRS API\Mytest1\obj\Debug\SFServer.csproj.GenerateResource.Cache
+C:\Users\huxn\Desktop\SFServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huxn\Desktop\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+C:\Users\huxn\Desktop\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+C:\Users\huxn\Desktop\EDRS API\SFServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huxn\Desktop\EDRS API\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+C:\Users\huxn\Desktop\EDRS API\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\bin\Debug\Mytest1.exe.config
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\bin\Debug\Mytest1.exe
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\bin\Debug\Mytest1.pdb
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\bin\Debug\SFClassLibrary.dll
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\bin\Debug\System.Data.SQLite.dll
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\obj\Debug\Mytest1.exe
+D:\Project\AAAAAAAAA_________________Coding\EDRS API\SFServer\obj\Debug\Mytest1.pdb
+D:\Project\SFProject\SFServer\bin\Debug\Mytest1.exe.config
+D:\Project\SFProject\SFServer\bin\Debug\Mytest1.exe
+D:\Project\SFProject\SFServer\bin\Debug\Mytest1.pdb
+D:\Project\SFProject\SFServer\bin\Debug\SFClassLibrary.dll
+D:\Project\SFProject\SFServer\bin\Debug\System.Data.SQLite.dll
+D:\Project\SFProject\SFServer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\SFProject\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\Project\SFProject\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SFProject\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+D:\Project\SFProject\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\SFProject\SFServer\obj\Debug\Mytest1.exe
+D:\Project\SFProject\SFServer\obj\Debug\Mytest1.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\bin\Debug\Mytest1.exe.config
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\bin\Debug\Mytest1.exe
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\bin\Debug\Mytest1.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\bin\Debug\System.Data.SQLite.dll
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\obj\Debug\Mytest1.exe
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\obj\Debug\Mytest1.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject\SFServer\bin\Debug\SFClassLibrary.dll
+D:\Project\Backup___________________ Coding\SFProject\SFServer\bin\Debug\Mytest1.exe.config
+D:\Project\Backup___________________ Coding\SFProject\SFServer\bin\Debug\Mytest1.exe
+D:\Project\Backup___________________ Coding\SFProject\SFServer\bin\Debug\Mytest1.pdb
+D:\Project\Backup___________________ Coding\SFProject\SFServer\bin\Debug\SFClassLibrary.dll
+D:\Project\Backup___________________ Coding\SFProject\SFServer\bin\Debug\System.Data.SQLite.dll
+D:\Project\Backup___________________ Coding\SFProject\SFServer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\Backup___________________ Coding\SFProject\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\Project\Backup___________________ Coding\SFProject\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Backup___________________ Coding\SFProject\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+D:\Project\Backup___________________ Coding\SFProject\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\Backup___________________ Coding\SFProject\SFServer\obj\Debug\Mytest1.exe
+D:\Project\Backup___________________ Coding\SFProject\SFServer\obj\Debug\Mytest1.pdb
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\bin\Debug\Mytest1.exe.config
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\bin\Debug\Mytest1.exe
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\bin\Debug\Mytest1.pdb
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\bin\Debug\SFClassLibrary.dll
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\bin\Debug\System.Data.SQLite.dll
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\obj\Debug\Mytest1.exe
+D:\Project\Backup___________________ Coding\SFProject2008\SFServer\obj\Debug\Mytest1.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFClassLibrary.dll
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\JPushAPI.dll
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.dll
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\JPushAPI.pdb
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\obj\Debug\Mytest1.Properties.Resources.resources
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\obj\Debug\Mytest1.exe
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\obj\Debug\Mytest1.pdb
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Mytest1.exe.config
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Mytest1.exe.manifest
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Mytest1.application
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Mytest1.exe
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Mytest1.pdb
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\JPushAPI.dll
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\SFClassLibrary.dll
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\office.dll
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\JPushAPI.pdb
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\SFClassLibrary.pdb
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\obj\Debug\Mytest1.exe.manifest
+C:\Users\zhangbq\Desktop\kinly\SFProject2008\SFServer\obj\Debug\Mytest1.application
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\JPushAPI.dll
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\SFClassLibrary.dll
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\JPushAPI.pdb
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\SFClassLibrary.pdb
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.exe.config
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.exe.manifest
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.application
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.exe
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.exe.manifest
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.application
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.exe
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.pdb
+D:\Project\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.exe.config
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.exe.manifest
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.application
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.exe
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFServer.pdb
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\JPushAPI.dll
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFClassLibrary.dll
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.dll
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\JPushAPI.pdb
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\bin\Debug\SFClassLibrary.pdb
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\ResolveAssemblyReference.cache
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.exe.manifest
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.application
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.exe
+F:\Share Documents\AAAAAAAAA_________________Coding\SFProject2008\SFServer\obj\Debug\SFServer.pdb
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.exe.config
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.exe.manifest
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.application
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.exe
+C:\Users\huxn\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.pdb
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.exe.manifest
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.application
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.exe
+C:\Users\huxn\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.pdb
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.exe.config
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.exe.manifest
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.application
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.exe
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\SFServer.pdb
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\JPushAPI.dll
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\SFClassLibrary.dll
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\JPushAPI.pdb
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\bin\Debug\SFClassLibrary.pdb
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.exe.manifest
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.application
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.exe
+C:\Users\Administrator.SRFIQBWJ2W6AIT4\Desktop\SFProject2008\SFServer\obj\Debug\SFServer.pdb
+E:\develop\SFProject2008\SFServer\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\SFProject2008\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+E:\develop\SFProject2008\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+E:\develop\SFProject2008\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+E:\develop\SFProject2008\SFServer\bin\Debug\SFServer.exe.config
+E:\develop\SFProject2008\SFServer\bin\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008\SFServer\bin\Debug\SFServer.application
+E:\develop\SFProject2008\SFServer\bin\Debug\SFServer.exe
+E:\develop\SFProject2008\SFServer\bin\Debug\SFServer.pdb
+E:\develop\SFProject2008\SFServer\bin\Debug\JPushAPI.dll
+E:\develop\SFProject2008\SFServer\bin\Debug\SFClassLibrary.dll
+E:\develop\SFProject2008\SFServer\bin\Debug\Newtonsoft.Json.dll
+E:\develop\SFProject2008\SFServer\bin\Debug\JPushAPI.pdb
+E:\develop\SFProject2008\SFServer\bin\Debug\SFClassLibrary.pdb
+E:\develop\SFProject2008\SFServer\obj\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008\SFServer\obj\Debug\SFServer.application
+E:\develop\SFProject2008\SFServer\obj\Debug\SFServer.exe
+E:\develop\SFProject2008\SFServer\obj\Debug\SFServer.pdb
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\SFServer.exe.config
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\SFServer.application
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\SFServer.exe
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\SFServer.pdb
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\JPushAPI.dll
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\SFClassLibrary.dll
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\Newtonsoft.Json.dll
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\JPushAPI.pdb
+E:\develop\SFProject2008第一期\SFServer\bin\Debug\SFClassLibrary.pdb
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\SFServer.application
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\SFServer.exe
+E:\develop\SFProject2008第一期\SFServer\obj\Debug\SFServer.pdb
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\SFServer.exe.config
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\SFServer.application
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\SFServer.exe
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\SFServer.pdb
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\JPushAPI.dll
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\SFClassLibrary.dll
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\Newtonsoft.Json.dll
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\JPushAPI.pdb
+E:\develop\SFProject2008（第二期）\SFServer\bin\Debug\SFClassLibrary.pdb
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\SFServer.application
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\SFServer.exe
+E:\develop\SFProject2008（第二期）\SFServer\obj\Debug\SFServer.pdb
+E:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.config
+E:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.application
+E:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe
+E:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.pdb
+E:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.dll
+E:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.pdb
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe.manifest
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.application
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe
+E:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.pdb
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.config
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.manifest
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.application
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.pdb
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe.manifest
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.application
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe
+D:\develop\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.pdb
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.dll
+D:\develop\SFProject2008（第二期） - 内网\SFServer\bin\Debug\MySql.Data.dll
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.config
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.manifest
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.application
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.pdb
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.dll
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\MySql.Data.dll
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.pdb
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\ResolveAssemblyReference.cache
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe.manifest
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.application
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe
+D:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.pdb
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.csproj.GenerateResource.Cache
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.config
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe.manifest
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.application
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.exe
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFServer.pdb
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.dll
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\bin\Debug\SFClassLibrary.pdb
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe.manifest
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.application
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.exe
+E:\develop\SF顺丰项目系统\SFProject2008（第二期） - 内网\SFServer\obj\Debug\SFServer.pdb
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.ProjectInstaller.resources
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.csproj.GenerateResource.cache
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.csproj.CoreCompileInputs.cache
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.csproj.CopyComplete
+E:\Code\SFServer\SFServer\bin\Debug\SFServer.exe.config
+E:\Code\SFServer\SFServer\bin\Debug\SFServer.exe.manifest
+E:\Code\SFServer\SFServer\bin\Debug\SFServer.application
+E:\Code\SFServer\SFServer\bin\Debug\SFServer.exe
+E:\Code\SFServer\SFServer\bin\Debug\SFServer.pdb
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.Properties.Resources.resources
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.exe.manifest
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.application
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.exe
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.pdb
+E:\Code\SFServer\SFServer\bin\Debug\Newtonsoft.Json.dll
+E:\Code\SFServer\SFServer\bin\Debug\Newtonsoft.Json.xml
+E:\Code\SFServer\SFServer\bin\Debug\MyControl.dll
+E:\Code\SFServer\SFServer\obj\Debug\SFServer.csproj.AssemblyReference.cache

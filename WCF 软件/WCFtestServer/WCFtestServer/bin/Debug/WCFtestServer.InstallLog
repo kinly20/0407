@@ -1,0 +1,748 @@
+﻿Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Creating EventLog source WCFtestServer in log Application...
+Rolling back assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Restoring event log to previous state for source WCFtestServer.
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Warning: The source WCFtestServer is not registered on the local machine.
+Service WCFtestServer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Attempt to stop service WCFtestServer.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Attempt to stop service WCFtestServer.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Creating EventLog source WCFtestServer in log Application...
+Rolling back assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Restoring event log to previous state for source WCFtestServer.
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Creating EventLog source WCFtestServer in log Application...
+Rolling back assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Restoring event log to previous state for source WCFtestServer.
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Warning: The source WCFtestServer is not registered on the local machine.
+Service WCFtestServer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Uninstalling assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Removing EventLog source WCFtestServer.
+Service WCFtestServer is being removed from the system...
+Service WCFtestServer was successfully removed from the system.
+Installing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
+Installing service WCFtestServer...
+Service WCFtestServer has been successfully installed.
+Creating EventLog source WCFtestServer in log Application...
+Committing assembly 'E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.InstallLog
+   assemblypath = E:\develop\WCFtestServer\WCFtestServer\bin\Debug\WCFtestServer.exe
