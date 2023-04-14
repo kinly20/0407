@@ -1,0 +1,561 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFrameworks>netcoreapp3.1;net6.0-windows</TargetFrameworks>
+		<UseWPF>true</UseWPF>
+		<AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>disable</ImplicitUsings>
+		<LangVersion>10.0</LangVersion>
+		<UseWindowsForms>True</UseWindowsForms>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+		<ApplicationIcon>Resources\Painter\ico\favicon.ico</ApplicationIcon>
+		<BaseOutputPath>bin\</BaseOutputPath>
+		<Platforms>AnyCPU;x64</Platforms>
+		<PlatformTarget>x64</PlatformTarget>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="AlarmMessage.ini" />
+		<None Remove="Resources\BackgroundSmall.png" />
+		<None Remove="Resources\Debug\A.B侧托盘打齐气缸3.4.png" />
+		<None Remove="Resources\Debug\A侧刮膜装置电机.png" />
+		<None Remove="Resources\Debug\A侧横向打齐模组1.png" />
+		<None Remove="Resources\Debug\Longmen.png" />
+		<None Remove="Resources\Debug\入口钢架组件.png" />
+		<None Remove="Resources\Debug\出口卷料升降电机.png" />
+		<None Remove="Resources\Debug\出口钢架组件.png" />
+		<None Remove="Resources\Debug\功率计电机.png" />
+		<None Remove="Resources\Debug\加工台面.png" />
+		<None Remove="Resources\Debug\升降平台电机1.png" />
+		<None Remove="Resources\Debug\升降平台电机2.png" />
+		<None Remove="Resources\Debug\台面示意图.png" />
+		<None Remove="Resources\Debug\清洗模组.png" />
+		<None Remove="Resources\Debug\设备整体.png" />
+		<None Remove="Resources\Debug\龙门1挡光伺服电机.png" />
+		<None Remove="Resources\Debug\龙门1模组.png" />
+		<None Remove="Resources\DevicePic\MainPage2.png" />
+		<None Remove="Resources\DevicePic\动画图片2.png" />
+		<None Remove="Resources\DevicePic\吸附皮带1.png" />
+		<None Remove="Resources\DevicePic\吸附皮带2.png" />
+		<None Remove="Resources\DevicePic\拉膜电机开始位置2.png" />
+		<None Remove="Resources\DevicePic\拉膜电机结束位置2.png" />
+		<None Remove="Resources\DevicePic\放卷电机1.png" />
+		<None Remove="Resources\DevicePic\放卷电机2.png" />
+		<None Remove="Resources\DevicePic\纠偏电机2.png" />
+		<None Remove="Resources\DevicePic\过程纠偏电机2.png" />
+		<None Remove="Resources\DRLaser.png" />
+		<None Remove="Resources\Font\SourceHanSansSC-Bold-2.otf" />
+		<None Remove="Resources\Font\SourceHanSansSC-ExtraLight-2.otf" />
+		<None Remove="Resources\Font\SourceHanSansSC-Heavy-2.otf" />
+		<None Remove="Resources\Font\SourceHanSansSC-Light-2.otf" />
+		<None Remove="Resources\Font\SourceHanSansSC-Medium-2.otf" />
+		<None Remove="Resources\Font\SourceHanSansSC-Normal-2.otf" />
+		<None Remove="Resources\Font\SourceHanSansSC-Regular-2.otf" />
+		<None Remove="Resources\GreenOff.png" />
+		<None Remove="Resources\GreenOn.png" />
+		<None Remove="Resources\LaserSolder\A.B侧托盘打齐气缸1.2.png" />
+		<None Remove="Resources\LaserSolder\A.B侧托盘打齐气缸3.4.png" />
+		<None Remove="Resources\LaserSolder\A侧刮膜装置电机.png" />
+		<None Remove="Resources\LaserSolder\A侧横向打齐模组1.png" />
+		<None Remove="Resources\LaserSolder\A侧横向打齐模组2.png" />
+		<None Remove="Resources\LaserSolder\B侧刮膜装置电机.png" />
+		<None Remove="Resources\LaserSolder\B侧横向打齐模组1.png" />
+		<None Remove="Resources\LaserSolder\B侧横向打齐模组2.png" />
+		<None Remove="Resources\LaserSolder\入口卷料升降电机.png" />
+		<None Remove="Resources\LaserSolder\入口卷料打齐电机.png" />
+		<None Remove="Resources\LaserSolder\入口压膜模组.png" />
+		<None Remove="Resources\LaserSolder\入口压膜气缸1.2.3.4.png" />
+		<None Remove="Resources\LaserSolder\入口钢架组件.png" />
+		<None Remove="Resources\LaserSolder\出口卷料升降电机.png" />
+		<None Remove="Resources\LaserSolder\出口卷料打齐电机.png" />
+		<None Remove="Resources\LaserSolder\出口压膜气缸1.2.png" />
+		<None Remove="Resources\LaserSolder\出口钢架组件.png" />
+		<None Remove="Resources\LaserSolder\功率计电机.png" />
+		<None Remove="Resources\LaserSolder\升降平台电机1.png" />
+		<None Remove="Resources\LaserSolder\升降平台电机2.png" />
+		<None Remove="Resources\LaserSolder\清洗模组.png" />
+		<None Remove="Resources\LaserSolder\清洗辊电机.png" />
+		<None Remove="Resources\LaserSolder\激光器1.png" />
+		<None Remove="Resources\LaserSolder\激光器10.png" />
+		<None Remove="Resources\LaserSolder\激光器11.png" />
+		<None Remove="Resources\LaserSolder\激光器12.png" />
+		<None Remove="Resources\LaserSolder\激光器2.png" />
+		<None Remove="Resources\LaserSolder\激光器3.png" />
+		<None Remove="Resources\LaserSolder\激光器4.png" />
+		<None Remove="Resources\LaserSolder\激光器5.png" />
+		<None Remove="Resources\LaserSolder\激光器6.png" />
+		<None Remove="Resources\LaserSolder\激光器7.png" />
+		<None Remove="Resources\LaserSolder\激光器8.png" />
+		<None Remove="Resources\LaserSolder\激光器9.png" />
+		<None Remove="Resources\LaserSolder\设备整体.png" />
+		<None Remove="Resources\LaserSolder\龙门1挡光伺服电机.png" />
+		<None Remove="Resources\LaserSolder\龙门1模组.png" />
+		<None Remove="Resources\LaserSolder\龙门1模组2.png" />
+		<None Remove="Resources\LaserSolder\龙门1电机.png" />
+		<None Remove="Resources\LaserSolder\龙门2挡光伺服电机.png" />
+		<None Remove="Resources\LaserSolder\龙门2模组.png" />
+		<None Remove="Resources\LaserSolder\龙门2模组2.png" />
+		<None Remove="Resources\LaserSolder\龙门2电机.png" />
+		<None Remove="Resources\LoadingLogo.png" />
+		<None Remove="Resources\MainPage.jpg" />
+		<None Remove="Resources\MarkingInit.jpg" />
+		<None Remove="Resources\Painter\3DNoWafer.png" />
+		<None Remove="Resources\Painter\3DNoWafer2.png" />
+		<None Remove="Resources\Painter\3DWafer.png" />
+		<None Remove="Resources\Painter\BackGround.png" />
+		<None Remove="Resources\Painter\BackgroundOK.png" />
+		<None Remove="Resources\Painter\Belts.png" />
+		<None Remove="Resources\Painter\BeltsWafer.png" />
+		<None Remove="Resources\Painter\LaserProcess.png" />
+		<None Remove="Resources\Painter\LaserProcessOK.png" />
+		<None Remove="Resources\Painter\PQ.bmp" />
+		<None Remove="Resources\Painter\Wafer01.png" />
+		<None Remove="Resources\Painter\wafer1.png" />
+		<None Remove="Resources\Painter\wafer2.png" />
+		<None Remove="Resources\Painter\wafer3.png" />
+		<None Remove="Resources\Painter\waferhalf1.png" />
+		<None Remove="Resources\Painter\waferhalf2.png" />
+		<None Remove="Resources\Painter\WaferNewOK.png" />
+		<None Remove="Resources\Painter\White.jpg" />
+		<None Remove="Resources\Painter\zuanpan1.png" />
+		<None Remove="Resources\Painter\激光不出光.png" />
+		<None Remove="Resources\Painter\激光出光.png" />
+		<None Remove="Resources\RedOff.png" />
+		<None Remove="Resources\RedOn.png" />
+		<None Remove="Resources\Switch2Off.png" />
+		<None Remove="Resources\Switch2On.png" />
+		<None Remove="Resources\SwitchOff.png" />
+		<None Remove="Resources\SwitchON.png" />
+		<None Remove="Resources\YellowOff.png" />
+		<None Remove="Resources\YellowOn.png" />
+		<None Remove="Resources\公司Logo.png" />
+		<None Remove="Resources\初始化2.png" />
+		<None Remove="Resources\功率计.png" />
+		<None Remove="Resources\加载打标图2.png" />
+		<None Remove="Resources\复位报警2.png" />
+		<None Remove="Resources\帝尔激光合照.png" />
+		<None Remove="Resources\帝尔激光建筑.png" />
+		<None Remove="Resources\手动打标2.png" />
+		<None Remove="Resources\自动化开始2.png" />
+		<None Remove="Resources\自动化结束2.png" />
+		<None Remove="Resources\选项2.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Page Remove="Resources\Painter\ControlStyle.xaml" />
+	  <Page Remove="Resources\Painter\LNG_En.xaml" />
+	  <Page Remove="Resources\Painter\LNG_Zh.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="AlarmMessage.ini">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+	  <Content Include="Resources\Painter\ico\favicon.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Caliburn.Micro" />
+	  <PackageReference Include="Autofac" />
+	  <PackageReference Include="Autofac.Extensions.DependencyInjection" />
+	  <PackageReference Include="Autofac.Extras.Quartz" />
+	  <PackageReference Include="log4net" />
+	  <PackageReference Include="Microsoft.Extensions.Hosting" />
+	  <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" />
+	  <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" />
+	  <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" />
+	  <PackageReference Include="MySqlConnector" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" />
+	  <PackageReference Include="System.Data.SqlClient" />
+	  <PackageReference Include="Oracle.ManagedDataAccess.Core" />
+	  <PackageReference Include="Trans.System.Windows.Interactivity" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Core\DRsoft.Engine.Core.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Model\DRsoft.Engine.Model.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.CalibrateEngine\DRsoft.Engine.Plugin.Calibrate.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.CameraHikvision\DRsoft.Engine.Plugin.CameraHikvision.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.Control.Beckhoff\DRsoft.Engine.Plugin.Control.Beckhoff.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.PlcAdsAdapter\DRsoft.Engine.Plugin.PlcAdsAdapter.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.PowerMeter\DRsoft.Engine.Plugin.PowerMeter.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.ProductEngine\DRsoft.Engine.Plugin.Engine.Product.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.SingleStepEngine\DRsoft.Engine.Plugin.Engine.SingleStep.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Bussiness\DRsoft.Engine.Plugin.VisionProduction\DRsoft.Engine.Plugin.VisionProduction.csproj" />
+	  <ProjectReference Include="..\..\DRsoft.Modeling\DRsoft.Modeling\DRsoft.Modeling.csproj" />
+	  <ProjectReference Include="..\MaterialDesignThemes.Wpf\MaterialDesignThemes.Wpf.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="appsetting.json">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="log4net.config">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="_metadata\ControllerConfig\A0288F92-65D0-F6FE-D316-3AC433CAAAD9.metadata.config">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="_metadata\EngineConfig\AFA94CBC-A010-3A28-7B44-F409992825E4.metadata.config">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="_metadata\Langs\3EA823B0-B6D5-E711-9BCA-6C4B90333947.metadata.config">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="_metadata\MetadataStatus.metadata.config">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="_metadata\RecipeConfig\C8930820-2B7A-9439-9F04-CFF721DE0822.metadata.config">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="_metadata\VisionCalibrationConfig\FF5BBB55-F312-4F99-9188-8A63C434FC98.metadata.config">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="AlarmMessage.ini">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Resource Include="Resources\BackgroundSmall.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Debug\A.B侧托盘打齐气缸3.4.png" />
+		<Resource Include="Resources\Debug\A侧刮膜装置电机.png" />
+		<Resource Include="Resources\Debug\A侧横向打齐模组1.png" />
+		<Resource Include="Resources\Debug\Longmen.png" />
+		<Resource Include="Resources\Debug\入口钢架组件.png" />
+		<Resource Include="Resources\Debug\出口卷料升降电机.png" />
+		<Resource Include="Resources\Debug\出口钢架组件.png" />
+		<Resource Include="Resources\Debug\功率计电机.png" />
+		<Resource Include="Resources\Debug\加工台面.png" />
+		<Resource Include="Resources\Debug\升降平台电机1.png" />
+		<Resource Include="Resources\Debug\升降平台电机2.png" />
+		<Resource Include="Resources\Debug\台面示意图.png" />
+		<Resource Include="Resources\Debug\清洗模组.png" />
+		<Resource Include="Resources\Debug\设备整体.png" />
+		<Resource Include="Resources\Debug\龙门1挡光伺服电机.png" />
+		<Resource Include="Resources\Debug\龙门1模组.png" />
+		<Resource Include="Resources\DevicePic\MainPage2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\动画图片2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\吸附皮带1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\吸附皮带2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\拉膜电机开始位置2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\拉膜电机结束位置2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\放卷电机1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\放卷电机2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\纠偏电机2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DevicePic\过程纠偏电机2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\DRLaser.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Font\SourceHanSansSC-Bold-2.otf" />
+		<Resource Include="Resources\Font\SourceHanSansSC-Normal-2.otf" />
+		<Resource Include="Resources\GreenOff.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\GreenOn.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\A.B侧托盘打齐气缸1.2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\A.B侧托盘打齐气缸3.4.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\A侧刮膜装置电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\A侧横向打齐模组1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\A侧横向打齐模组2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\B侧刮膜装置电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\B侧横向打齐模组1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\B侧横向打齐模组2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\入口卷料升降电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\入口卷料打齐电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\入口压膜模组.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\入口压膜气缸1.2.3.4.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\入口钢架组件.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\出口卷料升降电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\出口卷料打齐电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\出口压膜气缸1.2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\出口钢架组件.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\功率计电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\升降平台电机1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\升降平台电机2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\清洗模组.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\清洗辊电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器10.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器11.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器12.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器3.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器4.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器5.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器6.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器7.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器8.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\激光器9.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\设备整体.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门1挡光伺服电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门1模组.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门1模组2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门1电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门2挡光伺服电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门2模组.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门2模组2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LaserSolder\龙门2电机.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LoadingLogo.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\MarkingInit.jpg">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\BackGround.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\Belts.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\BeltsWafer.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\ControlStyle.xaml" />
+		<Resource Include="Resources\Painter\LNG_En.xaml" />
+		<Resource Include="Resources\Painter\LNG_Zh.xaml" />
+		<Resource Include="Resources\Painter\PQ.bmp">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\wafer1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\wafer2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\wafer3.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\waferhalf1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\waferhalf2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\White.jpg">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Painter\zuanpan1.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\RedOff.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\RedOn.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Switch2Off.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\Switch2On.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\SwitchOff.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\SwitchON.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\YellowOff.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\YellowOn.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\公司Logo.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\初始化2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\功率计.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\加载打标图2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\复位报警2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\帝尔激光合照.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\帝尔激光建筑.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\手动打标2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\自动化开始2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\自动化结束2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\选项2.png">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Layout.cs">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Compile>
+	  <Compile Update="Views\QueryPageView.xaml.cs">
+	    <SubType>Code</SubType>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="AxMMEdit_x64_1">
+	    <HintPath>C:\Program Files (x86)\DRMark\MmAssembly\AxMMEdit_x64_1.dll</HintPath>
+	  </Reference>
+	  <Reference Include="AxMMIO_x64_1">
+	    <HintPath>C:\Program Files (x86)\DRMark\MmAssembly\AxMMIO_x64_1.dll</HintPath>
+	  </Reference>
+	  <Reference Include="AxMMMark_x64_1">
+	    <HintPath>C:\Program Files (x86)\DRMark\MmAssembly\AxMMMark_x64_1.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.Common">
+	    <HintPath>Package\DRsoft.Runtime.Core.Common.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.DataBase">
+	    <HintPath>Package\DRsoft.Runtime.Core.DataBase.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.DBService">
+	    <HintPath>Package\DRsoft.Runtime.Core.DBService.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.Language">
+	    <HintPath>Package\DRsoft.Runtime.Core.Language.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.Log4net">
+	    <HintPath>Package\DRsoft.Runtime.Core.Log4net.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.Platform">
+	    <HintPath>Package\DRsoft.Runtime.Core.Platform.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.ScheduleHangfire">
+	    <HintPath>Package\DRsoft.Runtime.Core.ScheduleHangfire.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.ScheduleQuartz">
+	    <HintPath>Package\DRsoft.Runtime.Core.ScheduleQuartz.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DRsoft.Runtime.Core.SimulateMemory">
+	    <HintPath>Package\DRsoft.Runtime.Core.SimulateMemory.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+</Project>

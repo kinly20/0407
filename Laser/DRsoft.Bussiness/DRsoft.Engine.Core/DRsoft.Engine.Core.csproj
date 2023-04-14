@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;net6.0-windows</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x64</Platforms>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Engine\Ip\**" />
+    <Compile Remove="Engine\PalAlign\**" />
+    <Compile Remove="Mediator\**" />
+    <EmbeddedResource Remove="Engine\Ip\**" />
+    <EmbeddedResource Remove="Engine\PalAlign\**" />
+    <EmbeddedResource Remove="Mediator\**" />
+    <None Remove="Engine\Ip\**" />
+    <None Remove="Engine\PalAlign\**" />
+    <None Remove="Mediator\**" />
+    <Page Remove="Engine\Ip\**" />
+    <Page Remove="Engine\PalAlign\**" />
+    <Page Remove="Mediator\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Control\IController.cs" />
+    <Compile Remove="Engine\IEngine.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" />
+    <PackageReference Include="Newtonsoft.Json" />
+    <PackageReference Include="SerialPortStreamCore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DRsoft.Engine.Core.Interface\DRsoft.Engine.Core.Interface.csproj" />
+    <ProjectReference Include="..\DRsoft.Engine.Model\DRsoft.Engine.Model.csproj" />
+    <ProjectReference Include="..\DRsoft.Engine.Plugin.PlcAdsAdapter\DRsoft.Engine.Plugin.PlcAdsAdapter.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DRsoft.Runtime.Core.Common">
+      <HintPath>..\..\DRsoft.Application\Engine\Package\DRsoft.Runtime.Core.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="DRsoft.Runtime.Core.DataBase">
+      <HintPath>..\..\DRsoft.Application\Engine\Package\DRsoft.Runtime.Core.DataBase.dll</HintPath>
+    </Reference>
+    <Reference Include="DRsoft.Runtime.Core.DBService">
+      <HintPath>..\..\DRsoft.Application\Engine\Package\DRsoft.Runtime.Core.DBService.dll</HintPath>
+    </Reference>
+    <Reference Include="DRsoft.Runtime.Core.Platform">
+      <HintPath>..\..\DRsoft.Application\Engine\Package\DRsoft.Runtime.Core.Platform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

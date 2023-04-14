@@ -1,0 +1,258 @@
+﻿<UserControl
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfSunnyUI.Views" 
+      xmlns:fa="http://schemas.fontawesome.io/icons/"
+      xmlns:WpfSunnyUILibrary="clr-namespace:WpfSunnyUILibrary.UserControl;assembly=WpfSunnyUILibrary" 
+      x:Class="WpfSunnyUI.Views.ButtonView"
+      mc:Ignorable="d"
+   
+      d:DesignHeight="550" d:DesignWidth="950"
+      >
+
+    <Grid >
+
+        <WpfSunnyUILibrary:LineUserControl HorizontalAlignment="Left" Text="{Binding Titlename1}" LineColor="{Binding LineColor}" Margin="22,15,0,0" Height="20" Width="900" VerticalAlignment="Top"/>
+        <Button Style="{StaticResource NormalbuttonRact}"    Margin="25,35,0,0" ToolTip="确  定">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="确  定" Style="{StaticResource buttonText}"  />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource Normalbutton}"    Margin="25,92,0,0" ToolTip="确  定">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="确  定" Style="{StaticResource buttonText}"  />
+            </StackPanel>
+        </Button>
+        <Button   Style="{StaticResource ColorbuttonRact}"  Margin="168,35,0,0">
+            <TextBlock  Text="登  录" Style="{StaticResource buttonTextWhite}"/>
+        </Button>
+        <Button  Style="{DynamicResource Colorbutton}"    Margin="168,92,0,0" >
+            <TextBlock Text="登  录" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+        <Button  Style="{StaticResource ColorbuttonRact2}"    Margin="310,35,0,0" >
+            <TextBlock Text="取  消" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+        <Button  Style="{StaticResource Colorbutton2}"    Margin="310,92,0,0" >
+            <TextBlock Text="取  消" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+
+        <Button  Style="{StaticResource ColorbuttonRact3}"   Margin="460,35,0,0" >
+            <TextBlock Text="增  加" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+        <Button  Style="{StaticResource Colorbutton3}"    Margin="460,92,0,0" >
+            <TextBlock Text="增  加" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+
+        <Button  Style="{StaticResource ColorbuttonRact4}"    Margin="610,35,0,0" >
+            <TextBlock Text="删  除" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+        <Button  Style="{StaticResource Colorbutton4}"   Margin="610,92,0,0" >
+            <TextBlock Text="删  除" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+
+        <Button  Style="{StaticResource ColorbuttonRact5}"   Margin="756,34,0,0" >
+            <TextBlock Text="编  辑" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+        <Button  Style="{StaticResource Colorbutton5}"   Margin="756,92,0,0" >
+            <TextBlock Text="编  辑" Style="{StaticResource buttonTextWhite}" />
+        </Button>
+
+        <WpfSunnyUILibrary:LineUserControl HorizontalAlignment="Center" Text="{Binding Titlename2}" LineColor="{Binding LineColor}" Height="20"  Margin="0,156,0,0" VerticalAlignment="Top" Width="900"/>
+
+        <Button Style="{StaticResource ColorbuttonRact}"    Margin="25,187,0,0" ToolTip="确  定">
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="check" Style="{StaticResource buttonIconWhite}" />
+                <TextBlock Text="OK" Style="{StaticResource buttonTextWhiteWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonRact2}"    Margin="168,187,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Times" Style="{StaticResource buttonIconWhite}" />
+                <TextBlock Text="Cancel" Style="{StaticResource buttonTextWhiteWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonRact3}"    Margin="310,187,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="QuestionCircle" Style="{StaticResource buttonIconWhite}" />
+                <TextBlock Text="Query" Style="{StaticResource buttonTextWhiteWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonRact4}"    Margin="460,187,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="ExclamationCircle" Style="{StaticResource buttonIconWhite}" />
+                <TextBlock Text="Success" Style="{StaticResource buttonTextWhiteWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonRact5}"    Margin="610,187,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="ExclamationTriangle" Style="{StaticResource buttonIconWhite}" />
+                <TextBlock Text="Warn" Style="{StaticResource buttonTextWhiteWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonRact}"    Margin="756,187,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="TimesCircle" Style="{StaticResource buttonIconWhite}" />
+                <TextBlock Text="Error" Style="{StaticResource buttonTextWhiteWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource NormalbuttonRact}"    Margin="610,248,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Save" Style="{StaticResource buttonIcon}" />
+                <TextBlock Text="Save" Style="{StaticResource buttonTextWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource NormalbuttonRact}"    Margin="756,248,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="类库   " Style="{StaticResource buttonText}"  />
+                <fa:ImageAwesome Icon="CodeFork" Style="{StaticResource buttonIcon}" />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonCircle}"    Margin="25,248,0,0">
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Search" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonCircle2}"    Margin="95,248,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="PencilSquare" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonCircle3}"    Margin="168,248,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="check" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonCircle4}"    Margin="238,248,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="UserCircle" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonCircle5}"    Margin="310,248,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Star" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource ColorbuttonCircle}"    Margin="380,248,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Coffee" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+
+        <WpfSunnyUILibrary:LineUserControl HorizontalAlignment="Center" Text="{Binding Titlename3}" LineColor="{Binding LineColor}" Height="20"  Margin="0,303,0,0" VerticalAlignment="Top" Width="900"/>
+
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="21,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="play" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="70,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Pause" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="119,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Stop" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="168,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="FastBackward" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="217,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Backward" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="266,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Forward" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="315,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="FastForward" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ColorbuttonRact}" Width="50"    Margin="364,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Eject" Style="{StaticResource buttonIconWhite}" />
+            </StackPanel>
+        </Button>
+
+        <Button Style="{StaticResource NormalbuttonRact}" Width="50"    Margin="646,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Plus" Style="{StaticResource buttonIcon}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource NormalbuttonRact}" Width="50"    Margin="696,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="PencilSquare" Style="{StaticResource buttonIcon}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource NormalbuttonRact}" Width="50"    Margin="746,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="WindowMinimize" Style="{StaticResource buttonIcon}" />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource NormalbuttonRact}" Width="50"    Margin="796,346,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Refresh" Style="{StaticResource buttonIcon}" />
+            </StackPanel>
+        </Button>
+        <WpfSunnyUILibrary:LineUserControl HorizontalAlignment="Left" Text="{Binding Titlename4}" LineColor="{Binding LineColor}" Height="20"  Margin="32,402,0,0" VerticalAlignment="Top" Width="420"/>
+
+        <ToggleButton Style="{StaticResource ToggleStyleE}" Width="80" Height="30" Margin="40,432,0,0"></ToggleButton>
+        <ToggleButton Style="{StaticResource ToggleStyleC}" Width="80" Height="30" Margin="144,432,0,0"></ToggleButton>
+        <ToggleButton Style="{StaticResource ToggleStyleERact}" Width="80" Height="30" Margin="250,432,0,0"></ToggleButton>
+        <ToggleButton Style="{StaticResource ToggleStyleCRact}" Width="80" Height="30" Margin="353,432,0,0"></ToggleButton>
+
+        <Button Style="{StaticResource Colorbutton}"    Margin="40,476,0,0" Height="30" Width="85" >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="ToggleOff" Style="{StaticResource buttonIconWhite}" />
+                <TextBlock Text="Off" Style="{StaticResource buttonTextWhiteWithIcon}"  />
+            </StackPanel>
+        </Button>
+
+        <WpfSunnyUILibrary:LineUserControl HorizontalAlignment="Left" Text="{Binding Titlename5}" LineColor="{Binding LineColor}" Height="20"  Margin="502,402,0,0" VerticalAlignment="Top" Width="420"/>
+        <Button Style="{StaticResource ImagebuttonRact}" BorderBrush="Transparent"    Margin="502,432,0,0" Height="30" Width="80" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="/Image/家.png"  Style="{StaticResource buttonImage}"  />
+                <TextBlock Text="Home" Style="{StaticResource buttonText}"  />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ImagebuttonRact}" BorderBrush="Transparent"    Margin="621,432,0,0" Height="30" Width="30" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="/Image/曲线.png"  Style="{StaticResource buttonImage}"  />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ImagebuttonRact}" BorderBrush="Transparent"    Margin="696,432,0,0" Height="30" Width="30" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="/Image/保存.png"  Style="{StaticResource buttonImage}"  />
+            </StackPanel>
+        </Button>
+        <Button Style="{StaticResource ImagebuttonRact}" BorderBrush="Transparent"    Margin="766,432,0,0" Height="50" Width="60" >
+            <StackPanel Orientation="Vertical">
+                <Image Source="/Image/家.png"  Style="{StaticResource buttonImage}"  />
+                <TextBlock Text="Home" Style="{StaticResource buttonText}"  />
+            </StackPanel>
+        </Button>
+
+    </Grid>
+</UserControl>

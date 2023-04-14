@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\ClodeC.png" />
+    <None Remove="Image\ClodeE.png" />
+    <None Remove="Image\colorfullogo.png" />
+    <None Remove="Image\保存.png" />
+    <None Remove="Image\家.png" />
+    <None Remove="Image\曲线.png" />
+    <None Remove="Image\曲线向下.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Caliburn.Micro" Version="4.0.212" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WpfSunnyUILibrary\WpfSunnyUILibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\ClodeC.png" />
+    <Resource Include="Image\ClodeE.png" />
+    <Resource Include="Image\colorfullogo.png" />
+    <Resource Include="Image\保存.png" />
+    <Resource Include="Image\家.png" />
+    <Resource Include="Image\曲线.png" />
+    <Resource Include="Image\曲线向下.png" />
+  </ItemGroup>
+
+</Project>

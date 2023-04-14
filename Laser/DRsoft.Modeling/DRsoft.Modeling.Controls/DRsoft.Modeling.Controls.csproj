@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+     <TargetFrameworks>netcoreapp3.1;net6.0-windows</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x64</Platforms>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DRsoft.Modeling.Model\DRsoft.Modeling.Model.csproj" />
+    <ProjectReference Include="..\DRsoft.Modeling\DRsoft.Modeling.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AppGrid\" />
+    <Folder Include="AppTab\" />
+  </ItemGroup>
+
+</Project>

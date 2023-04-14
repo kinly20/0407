@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+	<PropertyGroup>
+		<RootNamespace>MaterialDesignColors</RootNamespace>
+		<AssemblyName>MaterialDesignColors</AssemblyName>
+		<TargetFrameworks>netcoreapp3.1;net6.0-windows</TargetFrameworks>
+		<UseWPF>true</UseWPF>
+		<MDIXColorsVersion Condition="$(MDIXColorsVersion) == '' Or $(MDIXColorsVersion) == '*Undefined*'">1.0.1</MDIXColorsVersion>
+		<MDIXColorsVersion>$([System.Text.RegularExpressions.Regex]::Replace("$(MDIXColorsVersion)", "-ci\d+$", ""))</MDIXColorsVersion>
+		<AssemblyTitle>MaterialDesignColors.Wpf</AssemblyTitle>
+		<Product>MaterialDesignColors.Wpf</Product>
+		<Description>Material Design in XAML Toolkit - Colors</Description>
+		<Version>$(MDIXColorsVersion)</Version>
+		<AssemblyVersion>$(MDIXColorsVersion)</AssemblyVersion>
+		<Platforms>AnyCPU;x64</Platforms>
+		<PlatformTarget>x64</PlatformTarget>
+	</PropertyGroup>
+</Project>

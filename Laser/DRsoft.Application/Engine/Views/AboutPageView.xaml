@@ -1,0 +1,243 @@
+﻿<UserControl
+    x:Class="Engine.Views.AboutPageView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="0.2*" />
+        </Grid.RowDefinitions>
+        <Viewbox
+            Grid.Row="0"
+            Grid.RowSpan="2"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Stretch="Uniform">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.3*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Image
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Margin="50,20,50,10"
+                    Source="/Resources/帝尔激光建筑.png" />
+                <Image
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Margin="50,10,50,20"
+                    Source="/Resources/帝尔激光合照.png" />
+                <materialDesign:Card
+                    Grid.Row="0"
+                    Grid.RowSpan="2"
+                    Grid.Column="1"
+                    Margin="2"
+                    Background="{StaticResource DrLaserBackGround}">
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,10,0,0"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc Bold}"
+                            FontSize="46"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            武汉帝尔激光科技股份有限公司
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,0"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc Bold}"
+                            FontSize="30"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            Wuhan DR Laser Technology Co., Ltd.
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="50,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            武汉帝尔激光科技股份有限公司是以自主创新激光技术为核心，提供全部高效太阳能电池激光加工综合解决方案的企
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            业。是工信部国家智能光伏试点示范单位、工信部第五批制造业单项冠军示范企业、国家高新区瞪羚企业、湖北省支柱
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            产业细分领域隐形冠军示范企业、湖北省知识产权示范建设企业、武汉2020民营制造业企业50强、光谷30年创新发展优
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            秀企业。2019年，帝尔激光（股票代码：300776.SZ）在深交所创业板上市。公司在武汉、无锡设有研发生产基地，在
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            以色列特拉维夫设有全球研发中心。
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="50,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            公司聚集国家众多行业领军人才，构建了一只专业度高、创新能力强的国际化人才团队。帝尔激光一直致力于将激光
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            技术创新性地应用于高效太阳能电池光伏行业，以提高太阳能电池发电效率，降低太阳能光伏发电成本，目前已成功将
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            激光加工技术应用到PERC、MWT、TOPCON等新型高效太阳能电池及组件技术。
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="50,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            凭借领先的原创性技术，公司推出的高效太阳能电池PERC激光消融设备和SE激光掺杂设备，已远销日本、韩国、澳
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            大利亚、新加坡、中国台湾、马来西亚、泰国、越南、印度、土耳其等多个国家和地区，占领了全球PERC高效太阳能激
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            光设备75%以上的市场份额，赶超国际先进水平，引领高效太阳能电池的技术发展和迭代革新。打破高科技垄断，帝尔
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            激光的激光技术已被全球光伏行业组件龙头生产商应用，包括隆基股份、阿特斯阳光电力、通威股份、天合光能、晶科
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            能源、爱旭太阳能、晶澳太阳能、韩华新能源、协鑫集成、尚德电力、东方日升、亿晶光电等国内外知名光伏企业。
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="25,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            “帝造匠心，因尔不凡”。公司将始终坚持以市场需求为导向，立足光谷，整合以色列研发中心资源，发挥无锡在长三
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            角地区的联动作用，依托研发、供应链、销售、服务等方面的技术沉淀与经验积累，通过技术与产品创新，提升产品质
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            量和供应链快速响应能力，巩固高效太阳能电池激光装备市场，丰富消费电子、集成电路等高科技领域，不断发展成为
+                        </TextBlock>
+                        <TextBlock
+                            Grid.Row="5"
+                            Grid.Column="3"
+                            Margin="0,5"
+                            VerticalAlignment="Top"
+                            FontFamily="{StaticResource SourceHanSansSc}"
+                            FontSize="26"
+                            Foreground="{StaticResource DrLaserWhiteFontColor}">
+                            在国际市场具备优势竞争力和品牌影响力的企业，成为国际激光技术发展的中坚力量。
+                        </TextBlock>
+                    </StackPanel>
+                </materialDesign:Card>
+            </Grid>
+        </Viewbox>
+
+        <!--<ContentControl x:Name="DataLogLargeViewContent" Grid.Row="1" />-->
+    </Grid>
+</UserControl>

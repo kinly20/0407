@@ -1,0 +1,64 @@
+{
+  "PLC": {
+    "Manufacturer": "DRSoft.Plugin.Controller.Beckhoff",
+    "IdentificationCode": "DRSoft.Plugin.PLC.Beckhoff",
+    //"Ip": "192.168.2.234.1.1", // AmsNetId   //169.254.163.180.1.1 
+    "Ip": "172.255.255.255.1.1",
+    //"Ip": "192.168.139.130.1.1 ",
+    //"Port": 801,
+    //"Ip": "127.0.0.1.1.1 ",
+    "Port": 801,
+    "Overtime": 2000,
+    "Prefix": ".",
+    "DelayInit": true
+  },
+  "Camera": {
+    "Manufacturer": "DRSoft.Plugin.VisualDispose.Hikvision",
+    "IdentificationCode": "DRSoft.Plugin.VisualDispose.Hikvision",
+    //"Ip": "192.168.3.10",
+    //"Port": 60100
+    "Ip": "127.0.0.1",
+    "Port": 887
+  },
+  "PowerMeter": {
+    "IdentificationCode": "DRSoft.Plugin.PowerMeter",
+    "PortName": "COM1",
+    "BaudRate": "115200",
+    "DataBits": 8,
+    "StopBits": 0,
+    "Parity": 0,
+    "WriteTimeout": 3000
+  },
+  "Vision": [
+    {
+      "Manufacturer": "DRSoft.Plugin.Vision.Production",
+      "IdentificationCode": "DRSoft.Plugin.Vision.ProductionA",
+      "Ip": "127.0.0.1",
+      "Port": 888
+    },
+    {
+      "Manufacturer": "DRSoft.Plugin.Vision.Production",
+      "IdentificationCode": "DRSoft.Plugin.Vision.ProductionB",
+      "Ip": "127.0.0.1",
+      "Port": 889
+    }
+  ],
+  "Calibrate": {
+    "IdentificationCode": "DRSoft.Plugin.Calibrate",
+    "Ip": "127.0.0.1", //192.168.3.2
+    "Port": 889
+  },
+  "SysConfig": {
+    "DbConfig": [
+      {
+        "Default": true,
+        "Name": "Main",
+        "Provider": "MySql",
+        "ConnectionString": "server=localhost;port=3306;database=solder;uid=root;password=drlaser;CharSet=utf8", //MySQL连接字符串
+        "ServiceName": "localhost"
+      }
+    ],
+    //用户登录默认密码
+    "DefaultPassword": "Dr123"
+  }
+}

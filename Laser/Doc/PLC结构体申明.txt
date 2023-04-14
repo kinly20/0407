@@ -1,0 +1,42 @@
+VAR_GLOBAL
+	stInput				:	ST_Input;									（*完成*）
+	stOutput				:	ST_Output;								（*完成*）
+
+	stParam		:	ST_Parameter	;
+	stCommand	:	ST_Command	;
+	stStatus		:	ST_Status;
+
+	stAxis_Gantry11	:ST_Axis;	(*	龙门1-1平移伺服	*)
+	stAxis_Gantry12	:ST_Axis;	(*	龙门1-2平移伺服	*)
+	stAxis_Gantry21	:ST_Axis;	(*	龙门2-1平移伺服	*)
+	stAxis_Gantry22	:ST_Axis;	(*	龙门2-2平移伺服	*)
+	stAxis_Align11	:ST_Axis;	(*	A侧横向打齐模组1	*)
+	stAxis_Align12	:ST_Axis;	(*	A侧横向打齐模组2	*)
+	stAxis_Align21	:ST_Axis;	(*	B侧横向打齐模组3	*)
+	stAxis_Align22	:ST_Axis;	(*	B侧横向打齐模组4	*)
+	stAxis_CamShutter1	:ST_Axis;	(*	相机挡光板1伺服	*)
+	stAxis_CamShutter2	:ST_Axis;	(*	相机挡光板2伺服	*)
+	stAxis_Z1	:ST_Axis;	(*	A侧升降平台伺服	*)
+	stAxis_Z2	:ST_Axis;	(*	B侧升降平台伺服	*)
+	stAxis_UwLift	:ST_Axis;	(*	放卷升降伺服	*)
+	stAxis_Uw	:ST_Axis;	(*	放卷驱动伺服	*)
+	stAxis_RwLift	:ST_Axis;	(*	收卷升降伺服	*)
+	stAxis_Rw	:ST_Axis;	(*	收卷驱动伺服	*)
+	stAxis_Clean	:ST_Axis;	(*	清洗辊伺服	*)
+	stAxis_PowerMeter	:ST_Axis;	(*	功率计平移伺服	*)
+	stAxis_UwSteer	:ST_Axis;	(*	放卷纠偏伺服	*)
+	stAxis_Peeling1	:ST_Axis;	(*	A侧刮膜装置伺服	*)
+	stAxis_StationA_Belt	:ST_Axis;	(*	A侧托盘输送伺服	*)
+	stAxis_Peeling2	:ST_Axis;	(*	B侧刮膜装置伺服	*)
+	stAxis_StationB_Belt	:ST_Axis;	(*	B侧托盘输送伺服	*)
+	stAxis_RwSteer	:ST_Axis;	(*	收卷纠偏伺服	*)
+	stAxis_Enconder1	:ST_Axis;	(*	编码器轴1	*)
+	stAxis_Enconder2	:ST_Axis;	(*	编码器轴2	*)
+
+
+
+	Alarm				: 	ARRAY [0..200] OF BOOL;
+	g_PlcVersion						: STRING;				(*PLC程序版本号*)
+	FirstCycle :BOOL:=TRUE;		(*	第一个扫描周期	*)
+
+END_VAR

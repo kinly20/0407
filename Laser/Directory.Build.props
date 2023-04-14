@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <Copyright>Copyright © 2022</Copyright>
+    <Company>DR Laser</Company>
+
+    <LangVersion>10.0</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+
+    <Nullable>enable</Nullable>
+
+    <SuppressNETCoreSdkPreviewMessage>true</SuppressNETCoreSdkPreviewMessage>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+     <TargetFrameworks>netcoreapp3.1;net6.0-windows</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x64</Platforms>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" />
+    <PackageReference Include="AutoMapper" />
+    <PackageReference Include="AutoMapper.Collection" />
+    <PackageReference Include="AutoMapper.Extensions.ExpressionMapping" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DRsoft.Engine.Model\DRsoft.Engine.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DRsoft.Runtime.Core.Platform">
+      <HintPath>..\..\DRsoft.Application\Engine\Package\DRsoft.Runtime.Core.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="TwinCAT.Ads">
+      <HintPath>dll\TwinCAT.Ads.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+	  <TargetFrameworks>netcoreapp3.1;net6.0-windows</TargetFrameworks>
+	  <Nullable>enable</Nullable>
+	  <UseWPF>true</UseWPF>
+	  <Platforms>AnyCPU;x64</Platforms>
+	  <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+	  <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SerialPortStreamCore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DRsoft.Engine.Core\DRsoft.Engine.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DRsoft.Runtime.Core.Platform">
+      <HintPath>..\..\DRsoft.Application\Engine\Package\DRsoft.Runtime.Core.Platform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

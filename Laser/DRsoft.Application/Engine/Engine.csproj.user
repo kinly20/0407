@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Behaviors\Mesa.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegisterKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartUpWindow\MarkingBackgroundWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AboutPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AlarmPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CommonComponent\DataLogSmallView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DebugPageComponent\DebugDetailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StartUpWindow\LoadingPageWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPageComponent\MainDataSheetView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPageComponent\MainImgView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPageComponent\MainMenuView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPageComponent\MainSignalLampView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPageComponent\MainControlPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DebugPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CommonComponent\DataLogLargeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ParameterPageComponent\ParameterDetailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ParameterPageComponent\ParameterRecipeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ParameterPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RoleSettingView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Behaviors\Granty.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Behaviors\Mesa.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Language\en.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Language\zh.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StartUpWindow\MarkingBackgroundWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AboutPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StartUpWindow\LoadingPageWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPageComponent\MainLayoutView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\QueryPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AlarmPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CommonComponent\DataLogSmallView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DebugPageComponent\DebugDetailView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPageComponent\MainDataSheetView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPageComponent\MainImgView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPageComponent\MainMenuView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPageComponent\MainSignalLampView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPageComponent\MainControlPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DebugPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindowView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CommonComponent\DataLogLargeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ParameterPageComponent\ParameterDetailView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ParameterPageComponent\ParameterRecipeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ParameterPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RoleSettingView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

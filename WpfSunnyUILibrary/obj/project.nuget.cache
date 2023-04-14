@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAMWSbsL8vQ16sXo44FxGbK+f5KX3in/HinItt7CSypcGMMJW5rB+s6GxtFJOziifHRjCj4uGrL2sbTwK+AlBw==",
+  "success": true,
+  "projectFilePath": "D:\\Code here\\Code4\\WpfSunnyUILibrary\\WpfSunnyUILibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0-windows7.0”还原包“FontAwesome.WPF 4.7.0.9”。此包可能与项目不完全兼容。",
+      "libraryId": "FontAwesome.WPF",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

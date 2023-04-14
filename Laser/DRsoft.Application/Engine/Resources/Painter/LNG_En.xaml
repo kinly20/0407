@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:s="clr-namespace:System;assembly=netstandard">
+    <s:String x:Key="Language">English</s:String>
+    <s:String x:Key="MenuMain">MainPage</s:String>
+    <s:String x:Key="TabMain">Main</s:String>
+    <s:String x:Key="TabPara">Parameter</s:String>
+    <s:String x:Key="TabDebug">Debug</s:String>
+    <s:String x:Key="AlarmNew">AlarmNew</s:String>
+    <s:String x:Key="AlarmHis">AlarmHis</s:String>
+    <s:String x:Key="StatusSof">Sofware_Status</s:String>
+    <s:String x:Key="StatusContr">Controller_Status</s:String>
+    <s:String x:Key="StatusContrPara">Contr_Para</s:String>
+    <s:String x:Key="StatusContrOper">Operation</s:String>  
+</ResourceDictionary>

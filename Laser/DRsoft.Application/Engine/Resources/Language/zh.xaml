@@ -1,0 +1,287 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="A-IN-1">暂停按钮</sys:String>
+    <sys:String x:Key="A-IN-2">报警消音按钮</sys:String>
+    <sys:String x:Key="A-IN-3">总气压表</sys:String>
+    <sys:String x:Key="A-IN-4">安全门开关1</sys:String>
+    <sys:String x:Key="A-IN-5">安全门开关2</sys:String>
+    <sys:String x:Key="A-IN-6">安全门开关3</sys:String>
+    <sys:String x:Key="A-IN-7">安全门开关4</sys:String>
+    <sys:String x:Key="A-IN-8">安全门开关5</sys:String>
+    <sys:String x:Key="A-IN-9">安全门开关6</sys:String>
+    <sys:String x:Key="A-IN-10">安全门开关7</sys:String>
+    <sys:String x:Key="A-IN-11">安全门开关8</sys:String>
+    <sys:String x:Key="A-IN-12">打标状态3</sys:String>
+    <sys:String x:Key="A-IN-13">打标状态4</sys:String>
+    <sys:String x:Key="A-IN-14">打标状态5</sys:String>
+    <sys:String x:Key="A-IN-15">打标状态6</sys:String>
+    <sys:String x:Key="A-IN-16">打标状态7</sys:String>
+
+
+    <sys:String x:Key="B-IN-1">光栅感应1</sys:String>
+    <sys:String x:Key="B-IN-2">光栅感应2</sys:String>
+    <sys:String x:Key="B-IN-3">光栅感应3</sys:String>
+    <sys:String x:Key="B-IN-4">光栅感应4</sys:String>
+    <sys:String x:Key="B-IN-5">预留</sys:String>
+    <sys:String x:Key="B-IN-6">上游准备好</sys:String>
+    <sys:String x:Key="B-IN-7">上游故障</sys:String>
+    <sys:String x:Key="B-IN-8">下游允许</sys:String>
+    <sys:String x:Key="B-IN-9">下游故障</sys:String>
+    <sys:String x:Key="B-IN-10">打标状态8</sys:String>
+    <sys:String x:Key="B-IN-11">打标状态9</sys:String>
+    <sys:String x:Key="B-IN-12">打标状态10</sys:String>
+    <sys:String x:Key="B-IN-13">打标状态11</sys:String>
+    <sys:String x:Key="B-IN-14">打标状态12</sys:String>
+    <sys:String x:Key="B-IN-15">升降A负压2</sys:String>
+    <sys:String x:Key="B-IN-16">升降B负压2</sys:String>
+
+    <sys:String x:Key="C-IN-1">龙门1检测1</sys:String>
+    <sys:String x:Key="C-IN-2">龙门1检测2</sys:String>
+    <sys:String x:Key="C-IN-3">龙门1检测3</sys:String>
+    <sys:String x:Key="C-IN-4">龙门1检测4</sys:String>
+    <sys:String x:Key="C-IN-5">龙门1检测5</sys:String>
+    <sys:String x:Key="C-IN-6">龙门1检测6</sys:String>
+    <sys:String x:Key="C-IN-7">龙门2检测1</sys:String>
+    <sys:String x:Key="C-IN-8">龙门2检测2</sys:String>
+    <sys:String x:Key="C-IN-9">龙门2检测3</sys:String>
+    <sys:String x:Key="C-IN-10">龙门2检测4</sys:String>
+    <sys:String x:Key="C-IN-11">龙门2检测5</sys:String>
+    <sys:String x:Key="C-IN-12">龙门2检测6</sys:String>
+    <sys:String x:Key="C-IN-13">冷水机1报警</sys:String>
+    <sys:String x:Key="C-IN-14">冷水机2报警</sys:String>
+    <sys:String x:Key="C-IN-15">打标状态1</sys:String>
+    <sys:String x:Key="C-IN-16">打标状态2</sys:String>
+
+    <sys:String x:Key="D-IN-1">放卷纠偏P</sys:String>
+    <sys:String x:Key="D-IN-2">放卷纠偏H</sys:String>
+    <sys:String x:Key="D-IN-3">放卷纠偏N</sys:String>
+    <sys:String x:Key="D-IN-4">放卷升降P</sys:String>
+    <sys:String x:Key="D-IN-5">放卷升降H</sys:String>
+    <sys:String x:Key="D-IN-6">放卷升降N</sys:String>
+    <sys:String x:Key="D-IN-7">入口压膜1开</sys:String>
+    <sys:String x:Key="D-IN-8">入口压膜1紧</sys:String>
+    <sys:String x:Key="D-IN-9">入口压膜2开</sys:String>
+    <sys:String x:Key="D-IN-10">入口压膜2紧</sys:String>
+    <sys:String x:Key="D-IN-11">入口压膜3开</sys:String>
+    <sys:String x:Key="D-IN-12">入口压膜3紧</sys:String>
+    <sys:String x:Key="D-IN-13">入口压膜4开</sys:String>
+    <sys:String x:Key="D-IN-14">入口压膜4紧</sys:String>
+    <sys:String x:Key="D-IN-15">入口线检测1</sys:String>
+    <sys:String x:Key="D-IN-16">入口线检测2</sys:String>
+
+    <sys:String x:Key="E-IN-1">A侧刮膜P</sys:String>
+    <sys:String x:Key="E-IN-2">A侧刮膜H</sys:String>
+    <sys:String x:Key="E-IN-3">A侧刮膜N</sys:String>
+    <sys:String x:Key="E-IN-4">A侧打齐1P</sys:String>
+    <sys:String x:Key="E-IN-5">A侧打齐1H</sys:String>
+    <sys:String x:Key="E-IN-6">A侧打齐1N</sys:String>
+    <sys:String x:Key="E-IN-7">A侧打齐2P</sys:String>
+    <sys:String x:Key="E-IN-8">A侧打齐2H</sys:String>
+    <sys:String x:Key="E-IN-9">A侧打齐2N</sys:String>
+    <sys:String x:Key="E-IN-10">A区升降平台P</sys:String>
+    <sys:String x:Key="E-IN-11">A区升降平台H</sys:String>
+    <sys:String x:Key="E-IN-12">A区升降平台N</sys:String>
+    <sys:String x:Key="E-IN-13">A侧托盘检测1</sys:String>
+    <sys:String x:Key="E-IN-14">A侧托盘检测2</sys:String>
+    <sys:String x:Key="E-IN-15">预留</sys:String>
+    <sys:String x:Key="E-IN-16">预留</sys:String>
+
+    <sys:String x:Key="F-IN-1">A侧盘打齐1出</sys:String>
+    <sys:String x:Key="F-IN-2">A侧盘打齐1回</sys:String>
+    <sys:String x:Key="F-IN-3">A侧盘打齐2出</sys:String>
+    <sys:String x:Key="F-IN-4">A侧盘打齐2回</sys:String>
+    <sys:String x:Key="F-IN-5">中间压膜1出</sys:String>
+    <sys:String x:Key="F-IN-6">中间压膜1回</sys:String>
+    <sys:String x:Key="F-IN-7">预留</sys:String>
+    <sys:String x:Key="F-IN-8">A侧盘打齐3出</sys:String>
+    <sys:String x:Key="F-IN-9">A侧盘打齐3回</sys:String>
+    <sys:String x:Key="F-IN-10">A侧盘打齐4出</sys:String>
+    <sys:String x:Key="F-IN-11">A侧盘打齐4回</sys:String>
+    <sys:String x:Key="F-IN-12">中间压膜2出</sys:String>
+    <sys:String x:Key="F-IN-13">中间压膜2回</sys:String>
+    <sys:String x:Key="F-IN-14">中间线检测1</sys:String>
+    <sys:String x:Key="F-IN-15">中间线检测2</sys:String>
+    <sys:String x:Key="F-IN-16">预留</sys:String>
+
+    <sys:String x:Key="G-IN-1">B侧刮膜P</sys:String>
+    <sys:String x:Key="G-IN-2">B侧刮膜H</sys:String>
+    <sys:String x:Key="G-IN-3">B侧刮膜N</sys:String>
+    <sys:String x:Key="G-IN-4">B侧打齐1P</sys:String>
+    <sys:String x:Key="G-IN-5">B侧打齐1H</sys:String>
+    <sys:String x:Key="G-IN-6">B侧打齐1N</sys:String>
+    <sys:String x:Key="G-IN-7">B侧打齐2P</sys:String>
+    <sys:String x:Key="G-IN-8">B侧打齐2H</sys:String>
+    <sys:String x:Key="G-IN-9">B侧打齐2N</sys:String>
+    <sys:String x:Key="G-IN-10">B区升降P</sys:String>
+    <sys:String x:Key="G-IN-11">B区升降H</sys:String>
+    <sys:String x:Key="G-IN-12">B区升降N</sys:String>
+    <sys:String x:Key="G-IN-13">B侧盘检测1</sys:String>
+    <sys:String x:Key="G-IN-14">B侧盘检测2</sys:String>
+    <sys:String x:Key="G-IN-15">预留</sys:String>
+    <sys:String x:Key="G-IN-16">预留</sys:String>
+
+    <sys:String x:Key="H-IN-1">B侧盘打齐1出</sys:String>
+    <sys:String x:Key="H-IN-2">B侧盘打齐1回</sys:String>
+    <sys:String x:Key="H-IN-3">B侧盘打齐2出</sys:String>
+    <sys:String x:Key="H-IN-4">B侧盘打齐2回</sys:String>
+    <sys:String x:Key="H-IN-5">龙门1正限位</sys:String>
+    <sys:String x:Key="H-IN-6">龙门1原点</sys:String>
+    <sys:String x:Key="H-IN-7">龙门1负限位</sys:String>
+    <sys:String x:Key="H-IN-8">预留</sys:String>
+    <sys:String x:Key="H-IN-9">B侧盘打齐3出</sys:String>
+    <sys:String x:Key="H-IN-10">B侧盘打齐3回</sys:String>
+    <sys:String x:Key="H-IN-11">B侧盘打齐4出</sys:String>
+    <sys:String x:Key="H-IN-12">B侧盘打齐4回</sys:String>
+    <sys:String x:Key="H-IN-13">龙门2正限位</sys:String>
+    <sys:String x:Key="H-IN-14">龙门2原点</sys:String>
+    <sys:String x:Key="H-IN-15">龙门2负限位</sys:String>
+    <sys:String x:Key="H-IN-16">预留</sys:String>
+
+    <sys:String x:Key="I-IN-1">收卷纠偏P</sys:String>
+    <sys:String x:Key="I-IN-2">收卷纠偏H</sys:String>
+    <sys:String x:Key="I-IN-3">收卷纠偏N</sys:String>
+    <sys:String x:Key="I-IN-4">收卷升降P</sys:String>
+    <sys:String x:Key="I-IN-5">收卷升降H</sys:String>
+    <sys:String x:Key="I-IN-6">收卷升降N</sys:String>
+    <sys:String x:Key="I-IN-7">出口压膜1开</sys:String>
+    <sys:String x:Key="I-IN-8">出口压膜1紧</sys:String>
+    <sys:String x:Key="I-IN-9">出口压膜2开</sys:String>
+    <sys:String x:Key="I-IN-10">出口压膜2紧</sys:String>
+    <sys:String x:Key="I-IN-11">出口线检测1</sys:String>
+    <sys:String x:Key="I-IN-12">出口线检测2</sys:String>
+    <sys:String x:Key="I-IN-13">预留</sys:String>
+    <sys:String x:Key="I-IN-14">预留</sys:String>
+    <sys:String x:Key="I-IN-15">预留</sys:String>
+    <sys:String x:Key="I-IN-16">预留</sys:String>
+
+    <sys:String x:Key="J-IN-1">功率计电机P</sys:String>
+    <sys:String x:Key="J-IN-2">功率计电机H</sys:String>
+    <sys:String x:Key="J-IN-3">功率计电机N</sys:String>
+    <sys:String x:Key="J-IN-4">相机挡电机1P</sys:String>
+    <sys:String x:Key="J-IN-5">相机挡电机1H</sys:String>
+    <sys:String x:Key="J-IN-6">相机挡电机1N</sys:String>
+    <sys:String x:Key="J-IN-7">相机挡电机2P</sys:String>
+    <sys:String x:Key="J-IN-8">相机挡电机2H</sys:String>
+    <sys:String x:Key="J-IN-9">相机挡电机2N</sys:String>
+    <sys:String x:Key="J-IN-10">升降A中间负压</sys:String>
+    <sys:String x:Key="J-IN-11">升降A边沿负压</sys:String>
+    <sys:String x:Key="J-IN-12">升降B中间负压</sys:String>
+    <sys:String x:Key="J-IN-13">升降B边沿负压</sys:String>
+    <sys:String x:Key="J-IN-14">龙门防撞光电1</sys:String>
+    <sys:String x:Key="J-IN-15">龙门防撞光电2</sys:String>
+    <sys:String x:Key="J-IN-16">预留</sys:String>
+
+    <sys:String x:Key="K-IN-1">预留</sys:String>
+    <sys:String x:Key="K-IN-2">预留</sys:String>
+    <sys:String x:Key="K-IN-3">预留</sys:String>
+    <sys:String x:Key="K-IN-4">预留</sys:String>
+    <sys:String x:Key="K-IN-5">预留</sys:String>
+    <sys:String x:Key="K-IN-6">预留</sys:String>
+    <sys:String x:Key="K-IN-7">预留</sys:String>
+    <sys:String x:Key="K-IN-8">预留</sys:String>
+    <sys:String x:Key="K-IN-9">预留</sys:String>
+    <sys:String x:Key="K-IN-10">预留</sys:String>
+    <sys:String x:Key="K-IN-11">预留</sys:String>
+    <sys:String x:Key="K-IN-12">预留</sys:String>
+    <sys:String x:Key="K-IN-13">预留</sys:String>
+    <sys:String x:Key="K-IN-14">预留</sys:String>
+    <sys:String x:Key="K-IN-15">预留</sys:String>
+    <sys:String x:Key="K-IN-16">预留</sys:String>
+
+    <sys:String x:Key="A-OU-1">暂停按钮灯</sys:String>
+    <sys:String x:Key="A-OU-2">报警消音灯</sys:String>
+    <sys:String x:Key="A-OU-3">三色灯-黄灯</sys:String>
+    <sys:String x:Key="A-OU-4">三色灯-绿灯</sys:String>
+    <sys:String x:Key="A-OU-5">三色灯-红灯</sys:String>
+    <sys:String x:Key="A-OU-6">三色灯-蜂鸣器</sys:String>
+    <sys:String x:Key="A-OU-7">照明灯</sys:String>
+    <sys:String x:Key="A-OU-8">预留</sys:String>
+    <sys:String x:Key="A-OU-9">预留</sys:String>
+    <sys:String x:Key="A-OU-10">预留</sys:String>
+    <sys:String x:Key="A-OU-11">预留</sys:String>
+    <sys:String x:Key="A-OU-12">预留</sys:String>
+    <sys:String x:Key="A-OU-13">预留</sys:String>
+    <sys:String x:Key="A-OU-14">预留</sys:String>
+    <sys:String x:Key="A-OU-15">预留</sys:String>
+    <sys:String x:Key="A-OU-16">预留</sys:String>
+
+    <sys:String x:Key="B-OU-1">打标卡1启动</sys:String>
+    <sys:String x:Key="B-OU-2">打标卡7启动</sys:String>
+    <sys:String x:Key="B-OU-3">龙门1光源</sys:String>
+    <sys:String x:Key="B-OU-4">龙门2光源</sys:String>
+    <sys:String x:Key="B-OU-5">入口线电机正转</sys:String>
+    <sys:String x:Key="B-OU-6">入口线电机反转</sys:String>
+    <sys:String x:Key="B-OU-7">中间线电机正转</sys:String>
+    <sys:String x:Key="B-OU-8">中间线电机反转</sys:String>
+    <sys:String x:Key="B-OU-9">出口线电机正转</sys:String>
+    <sys:String x:Key="B-OU-10">出口线电机反转</sys:String>
+    <sys:String x:Key="B-OU-11">允许上游进料</sys:String>
+    <sys:String x:Key="B-OU-12">故障出至上游</sys:String>
+    <sys:String x:Key="B-OU-13">本机至下游</sys:String>
+    <sys:String x:Key="B-OU-14">故障出至下游</sys:String>
+    <sys:String x:Key="B-OU-15">龙门1激光使能</sys:String>
+    <sys:String x:Key="B-OU-16">龙门2激光使能</sys:String>
+
+    <sys:String x:Key="C-OU-1">入口压膜1阀</sys:String>
+    <sys:String x:Key="C-OU-2">入口压膜2阀</sys:String>
+    <sys:String x:Key="C-OU-3">中间压膜阀</sys:String>
+    <sys:String x:Key="C-OU-4">出口压膜阀</sys:String>
+    <sys:String x:Key="C-OU-5">A侧横向打齐阀</sys:String>
+    <sys:String x:Key="C-OU-6">A侧入口打齐阀</sys:String>
+    <sys:String x:Key="C-OU-7">A侧出口打齐阀</sys:String>
+    <sys:String x:Key="C-OU-8">B侧横向打齐阀</sys:String>
+    <sys:String x:Key="C-OU-9">B侧入口打齐阀</sys:String>
+    <sys:String x:Key="C-OU-10">B侧出口打齐阀</sys:String>
+    <sys:String x:Key="C-OU-11">预留</sys:String>
+    <sys:String x:Key="C-OU-12">预留</sys:String>
+    <sys:String x:Key="C-OU-13">预留</sys:String>
+    <sys:String x:Key="C-OU-14">预留</sys:String>
+    <sys:String x:Key="C-OU-15">预留</sys:String>
+    <sys:String x:Key="C-OU-16">预留</sys:String>
+
+    <sys:String x:Key="D-OU-1">升A边沿真空1</sys:String>
+    <sys:String x:Key="D-OU-2">升A中间真空2</sys:String>
+    <sys:String x:Key="D-OU-3">升B边沿真空3</sys:String>
+    <sys:String x:Key="D-OU-4">升B中间真空4</sys:String>
+    <sys:String x:Key="D-OU-5">A侧泵启动</sys:String>
+    <sys:String x:Key="D-OU-6">B侧泵启动</sys:String>
+    <sys:String x:Key="D-OU-7">升A边沿真空2</sys:String>
+    <sys:String x:Key="D-OU-8">升B边沿真空2</sys:String>
+    <sys:String x:Key="D-OU-9">预留</sys:String>
+    <sys:String x:Key="D-OU-10">预留</sys:String>
+    <sys:String x:Key="D-OU-11">预留</sys:String>
+    <sys:String x:Key="D-OU-12">预留</sys:String>
+    <sys:String x:Key="D-OU-13">预留</sys:String>
+    <sys:String x:Key="D-OU-14">预留</sys:String>
+    <sys:String x:Key="D-OU-15">预留</sys:String>
+    <sys:String x:Key="D-OU-16">预留</sys:String>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ResourceDictionary>

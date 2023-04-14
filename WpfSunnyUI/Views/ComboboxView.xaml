@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="WpfSunnyUI.Views.ComboboxView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfSunnyUI.Views"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="550" d:DesignWidth="950">
+    <Grid>
+
+
+        <ComboBox Height="30" Width="250" Style="{StaticResource Combobox2}" Margin="203,132,0,0"  VerticalAlignment="Top" HorizontalAlignment="Left">
+            <ComboBoxItem Style="{StaticResource ComboBoxItemKind}">KindItem1</ComboBoxItem>
+            <ComboBoxItem Style="{StaticResource ComboBoxItemKind}">KindItem2</ComboBoxItem>
+            <ComboBoxItem Style="{StaticResource ComboBoxItemKind}">KindItem3</ComboBoxItem>
+            <ComboBoxItem Style="{StaticResource ComboBoxItem2}">2Item4</ComboBoxItem>
+            <ComboBoxItem Style="{StaticResource ComboBoxItem2}">2Item5</ComboBoxItem>
+            <ComboBoxItem Style="{StaticResource ComboBoxItem2}">2Item6</ComboBoxItem>
+            <ComboBoxItem >SystemItem4</ComboBoxItem>
+            <ComboBoxItem>SystemItem5</ComboBoxItem>
+            <ComboBoxItem >SystemItem6</ComboBoxItem>
+        </ComboBox>
+        <ComboBox Style="{StaticResource Combobox3}" HorizontalAlignment="Left" Margin="230,87,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>dd1</ComboBoxItem>
+            <ComboBoxItem>dd2</ComboBoxItem>
+            <ComboBoxItem>dd3</ComboBoxItem>
+            <ComboBoxItem>dd4</ComboBoxItem>
+            <ComboBoxItem>dd5</ComboBoxItem>
+            <ComboBoxItem>dd6</ComboBoxItem>
+            <ComboBoxItem>dd7</ComboBoxItem>
+            <ComboBoxItem>dd8</ComboBoxItem>
+            <ComboBoxItem>dd9</ComboBoxItem>
+            <ComboBoxItem>dd10</ComboBoxItem>
+            <ComboBoxItem>dd11</ComboBoxItem>
+            <ComboBoxItem>dd12</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox  HorizontalAlignment="Left" Margin="430,87,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>dd</ComboBoxItem>
+            <ComboBoxItem>dd2</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox Style="{StaticResource ComboBox1}" HorizontalAlignment="Left" Margin="230,37,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>dd</ComboBoxItem>
+            <ComboBoxItem>dd2</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="combobox" Style="{StaticResource ComboBox1}" HorizontalAlignment="Left" VerticalAlignment="Top"  Width="150" Height="30" Margin="382,37,0,0" IsEditable="False" BorderBrush="#e8e8e8">
+            <ComboBoxItem Content="上海" Tag="1"></ComboBoxItem>
+            <ComboBoxItem Content="北京" Tag="2"></ComboBoxItem>
+            <ComboBoxItem Content="天津" Tag="3"></ComboBoxItem>
+            <ComboBoxItem Content="广州" Tag="4"></ComboBoxItem>
+        </ComboBox>
+
+
+        <Grid Margin="5" Width="88" Height="68">
+            <ComboBox Name="comboBox" ItemsSource="{Binding ComboBoxItems}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding Image}" Margin="0,0,5,0" Height="30" Width="30"/>
+                            <Label Content="{Binding Name}" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ToggleButton Name="tgButton" BorderBrush="Transparent" Margin="0,0,20,0">
+                <ToggleButton.Content>
+                    <StackPanel>
+                        <Image Height="32" Width="32" DataContext="{Binding ElementName=comboBox, Path=SelectedItem}" Source="{Binding Image}"/>
+                        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom"
+                                   DataContext="{Binding ElementName=comboBox, Path=SelectedItem}" Content="{Binding Name}"/>
+                    </StackPanel>
+                </ToggleButton.Content>
+            </ToggleButton>
+        </Grid>
+
+
+    </Grid>
+</UserControl>
